@@ -57,7 +57,7 @@ Ziel dieses Projekts ist es, eine skalierbare, zuverlässige und leistungsfähig
 - Power BI
 - PostgreSQL
 - OpenMetadata
-- GitHub
+- Azure DevOps
 - SQL / Python
 
 ---
