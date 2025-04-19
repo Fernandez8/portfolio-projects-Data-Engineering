@@ -58,6 +58,7 @@ Ziel dieses Projekts ist es, eine skalierbare, zuverlässige und leistungsfähig
 - PostgreSQL
 - OpenMetadata
 - Azure DevOps
+- dbt (Data Build Tool)
 - SQL / Python
 
 ---
@@ -97,13 +98,16 @@ Diese Maßnahmen führten zu einer signifikanten Reduzierung der Latenzzeit bei 
 
 Für den analytischen Zugriff wurde ein **Star Schema** implementiert, bestehend aus einer zentralen **Fakten-Tabelle** und mehreren **Dimensionstabellen**:
 
-- Die **Fakten-Tabelle** enthält aggregierte Metriken wie z. B. Klickzahlen, Abspielzeiten oder Umsätze.
+- Die **Fakten-Tabelle** enthält aggregierte Metriken wie z. B. Klickzahlen, Umsätze.
 - **Dimensionstabellen** liefern beschreibende Informationen zu Entitäten wie:
   - Benutzer (User)
-  - Inhalt (Content)
   - Zeit (Date/Time)
   - Gerät (Device)
   - Geografie (Region)
+  - ...
+
+
+Die Modellierung und Transformation der Daten erfolgte mit **dbt (Data Build Tool)**, wodurch eine transparente, versionierte und dokumentierte Datenpipeline aufgebaut wurde.
 
 Dieses Modell erleichtert die Abfrage-Performance in **Power BI** und **Azure Synapse Analytics**, verbessert die **Lesbarkeit der Datenstrukturen** und unterstützt **Self-Service BI** für Fachanwender.
 
