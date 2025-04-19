@@ -2,8 +2,8 @@ import psycopg2
 
 ###  Connection parameters
 database = "dev"
-user = "root"
-password = "root"
+user = " "
+password = " "
 host = "postgres"
 port = "5432"
 

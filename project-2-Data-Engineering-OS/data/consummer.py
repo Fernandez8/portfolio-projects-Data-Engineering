@@ -23,7 +23,7 @@ connection_properties = {
     "driver": "org.postgresql.Driver"
 }
 
-# ## SCHEMA qui correspond EXACTEMENT au JSON Kafka
+# ## SCHEMA 
 def get_schema():
     return StructType([
         StructField("DateTime", StringType(), True),
@@ -36,7 +36,7 @@ def get_schema():
 
 def start_streaming():
     try:
-        # ## Spark avec Kafka + Postgres
+        # ## Spark,  Kafka + Postgres
         spark = SparkSession.builder \
             .appName("SparkStructuredStreaming") \
             .config("spark.jars.packages", "org.apache.spark:spark-sql-kafka-0-10_2.12:3.0.2,org.postgresql:postgresql:42.2.22") \
@@ -45,7 +45,7 @@ def start_streaming():
         spark.sparkContext.setLogLevel("ERROR")
         logger.info("Spark session créée")
 
-        # ## Lecture du topic Kafka
+        # ## read  Kafka topic
         df = spark.readStream \
             .format("kafka") \
             .option("kafka.bootstrap.servers", "kafka1:19092") \
@@ -55,16 +55,7 @@ def start_streaming():
 
         ###  Parsing JSON + cast
         schema = get_schema()
-        # parsed_df = df.selectExpr("CAST(value AS STRING) as json") \
-        #     .select(from_json(col("json"), schema).alias("data")) \
-        #     .select("data.*") \
-        #     .select(
-        #         to_timestamp(col("DateTime"), "yy-MM-dd HH:mm:ss").alias("DATETIME"),
-        #         col("temperature_huile").cast("float"),
-        #         col("pression_huile").cast("float"),
-        #         col("puissance_moteur").cast("float"),
-        #         col("motor_speed").cast("float")
-        #     )
+    
         parsed_df = df.selectExpr("CAST(value AS STRING) as json") \
             .select(from_json(col("json"), schema).alias("data")) \
             .select("data.*") \
@@ -76,7 +67,7 @@ def start_streaming():
                 spark_round(col("motor_speed").cast("float"), 2).alias("motor_speed")
             )
 
-        ### Fonction pour ecrire dans PostgreSQL
+        ### write in  PostgreSQL
         def write_to_postgres(batch_df, batch_id):
             try:
 
@@ -91,7 +82,7 @@ def start_streaming():
                 logger.error(f"Error when writing batch {batch_id} : {e}")
                 traceback.print_exc()
 
-        # ### Lancement du streaming
+        # ### Streaming
         query = parsed_df.writeStream \
             .outputMode("append") \
             .foreachBatch(write_to_postgres) \
