@@ -1,4 +1,4 @@
-# 📦 Projekt 2 – Data Engineering OS (Open Source Plattform)
+# Projekt 2 – Data Engineering OS (Open Source Plattform)
 
 ##  Projektübersicht
 
