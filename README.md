@@ -13,12 +13,10 @@
 
 ---
 
-## Architekturdiagramm
-
 <p align="center">
+<figcaption>Architekturdiagram</figcaption>
   <img src="project-2-Data-Engineering-OS/datenarchitekt_os.png" alt="Data Engineering OS Architektur" width="700"/>
 </p>
-
 
 
 
