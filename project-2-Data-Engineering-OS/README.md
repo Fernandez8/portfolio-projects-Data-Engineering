@@ -36,7 +36,6 @@ Jede Komponente (Ingestion, Processing, Storage, Monitoring) ist **entkoppelt**,
 
 - Standardisierte und automatisierte Datenverarbeitung
 - Unterstützung von Batch- und Echtzeitverarbeitung
-- Reproduzierbare Transformationen mit **dbt**
 - Integrierte Datenqualitätssicherung mit **Great Expectations**
 - Visualisierung aktueller Daten in **Grafana**
 - Einsatz ausschließlich quelloffener Komponenten (Open Source)
