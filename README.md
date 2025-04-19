@@ -33,7 +33,7 @@ Ziel dieses Projekts ist es, eine skalierbare, zuverlässige und leistungsfähig
 - Laden transformierter Daten in **Azure Synapse Analytics** als Data Warehouse
 - Erstellung interaktiver Reports mit **Power BI** für Business Insights
 - Sicherheitsmanagement via **Azure Key Vault** und rollenbasierter Zugriffskontrolle
-- Versionskontrolle und Zusammenarbeit über **GitHub**
+- Versionskontrolle und Zusammenarbeit 
 
 ---
 
@@ -104,7 +104,6 @@ Für den analytischen Zugriff wurde ein **Star Schema** implementiert, bestehend
   - Zeit (Date/Time)
   - Gerät (Device)
   - Geografie (Region)
-  - Sensorik (z. B. Temperatur, Luftfeuchtigkeit, Bewegung), falls IoT- oder Umweltdaten verfügbar sind
 
 Dieses Modell erleichtert die Abfrage-Performance in **Power BI** und **Azure Synapse Analytics**, verbessert die **Lesbarkeit der Datenstrukturen** und unterstützt **Self-Service BI** für Fachanwender.
 
