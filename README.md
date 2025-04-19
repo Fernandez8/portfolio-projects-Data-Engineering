@@ -17,6 +17,6 @@
 ## Architekturdiagramm
 
 <p align="center">
-  <img src="project-2-Data-Engineering-OS/data-engineering-os-architektur.png" alt="Data Engineering OS Architektur" width="700"/>
+  <img src="datenarchitekt_os.png" alt="Data Engineering OS Architektur" width="700"/>
 </p>
 
