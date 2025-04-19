@@ -18,7 +18,8 @@
 Aufbau einer cloudbasierten Datenarchitektur auf der Azure-Plattform zur Verarbeitung, Speicherung und Analyse großer unternehmensweiter Datenmengen aus verschiedenen Quellen.
 
 Ziel dieses Projekts ist es, eine skalierbare, zuverlässige und leistungsfähige Dateninfrastruktur zu entwerfen, die für produktive Umgebungen geeignet ist.
-Die Kommunikation zwischen der Cloud-Plattform und dem lokalen (on-premise) Unternehmensnetzwerk erfolgt über **sichere Kanäle**, z. B. über ein VPN-Gateway, Azure ExpressRoute oder rivate Endpoints, um eine verschlüsselte und kontrollierte Datenübertragung zu gewährleisten.
+Die Kommunikation zwischen der Cloud-Plattform und dem lokalen (on-premise) Unternehmensnetzwerk erfolgt über sichere Kanäle, z. B. über ein VPN-Gateway, Azure ExpressRoute oder rivate Endpoints, um eine verschlüsselte und kontrollierte Datenübertragung zu gewährleisten.
+Die Bereitstellung und Verwaltung der Azure-Ressourcen erfolgte automatisiert mit Terraform, um eine wiederholbare, versionierte und skalierbare Infrastruktur bereitzustellen.
 
 ---
 
