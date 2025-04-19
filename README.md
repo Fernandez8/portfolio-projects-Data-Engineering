@@ -9,7 +9,7 @@
 - [🔄 Echtzeit-Datenverarbeitung mit Azure Stream Analytics](#-echtzeit-datenverarbeitung-mit-azure-stream-analytics)
 - [🚀 Optimierung der Datenabfragen](#-optimierung-der-datenabfragen)
 - [🧮 Datenmodellierung – Star Schema](#-datenmodellierung--star-schema)
-- [📁 Projektstruktur](#-projektstruktur)
+
 
 ---
 
