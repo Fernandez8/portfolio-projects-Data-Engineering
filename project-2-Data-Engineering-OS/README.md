@@ -17,8 +17,6 @@ Ziel des Projekts ist der Aufbau einer modularen und erweiterbaren Data-Engineer
 - **PostgreSQL** – Relationale Datenspeicherung & Metadaten
 - **Docker / Docker Compose** – Containerisierung
 - **Grafana** – Datenvisualisierung
-- **dbt** – Transformation & Modellierung (optional)
-
 ---
 
 ##  Architektur
