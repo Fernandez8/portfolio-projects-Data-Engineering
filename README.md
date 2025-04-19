@@ -34,6 +34,12 @@
   <img src="project-2-Data-Engineering-OS/Datenbank.png" alt="Data Engineering OS Architektur" width="700"/>
 </p>
 
+--
+<p align="center">
+  <img src="project-2-Data-Engineering-OS/Visualizierung_grafana.png" alt="Data Engineering OS Architektur" width="700"/>
+</p>
+
+
 
 
 
