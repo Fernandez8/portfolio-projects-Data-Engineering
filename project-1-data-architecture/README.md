@@ -49,6 +49,7 @@ Die Bereitstellung und Verwaltung der Azure-Ressourcen erfolgte automatisiert mi
 
 ##  Verwendete Technologien
 
+- Networking
 - Azure Data Factory (ADF)
 - Azure Data Lake Gen2
 - Azure Databricks + PySpark
