@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="datenarchitekt.png" alt="Banner" width="800"/>
+  <img src="project-1-data-architecture/architecture-diagram.png" alt="Project 1 Diagram" width="700"/>
 </p>
