@@ -23,24 +23,24 @@
 
 
 <p align="center">
+<figcaption>Streaming-Ingestion Architektur</figcaption>
   <img src="project-2-Data-Engineering-OS/Streaming-Ingestion.png" alt="Data Engineering OS Architektur" width="700"/>
-  <figcaption>Streaming-Ingestion Architektur</figcaption>
 </p>
 
 <p align="center">
+<figcaption> Data Streaming </figcaption>
   <img src="project-2-Data-Engineering-OS/Streaming.png" alt="Data Engineering OS Architektur" width="700"/>
-  <figcaption> Data Streaming </figcaption>
 </p>
 
 <p align="center">
+<figcaption>Inhalt der Datenbank</figcaption>
   <img src="project-2-Data-Engineering-OS/Datenbank.png" alt="Data Engineering OS Architektur" width="700"/>
-  <figcaption>Inhalt der Datenbank</figcaption>
 </p>
 
 --
 <p align="center">
+<figcaption>Visualisierung mit Grafana</figcaption>
   <img src="project-2-Data-Engineering-OS/Visualizierung_grafana.png" alt="Data Engineering OS Architektur" width="700"/>
-  <figcaption>Visualisierung mit Grafana</figcaption>
 </p>
 
 
