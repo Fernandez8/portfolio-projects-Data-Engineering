@@ -9,7 +9,6 @@
 </p>
 
 ---
-
 ### ▶️ [Projekt 2 – Data Engineering OS (Open Source Plattform)](./project-2-Data-Engineering-OS/README.md)
 
 ---
@@ -17,6 +16,7 @@
 ## Architekturdiagramm
 
 <p align="center">
-  <img src="datenarchitekt_os.png" alt="Data Engineering OS Architektur" width="700"/>
+  <img src="project-2-Data-Engineering-OS/datenarchitekt_os.png" alt="Data Engineering OS Architektur" width="700"/>
 </p>
+
 
