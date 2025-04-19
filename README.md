@@ -1,3 +1,1 @@
-<p align="center">
-  <img src="project-1-data-architecture/architecture-diagram.png" alt="Project 1 Diagram" width="700"/>
-</p>
+![Project 1](project-1-data-architecture/datenarchitekt.png)
