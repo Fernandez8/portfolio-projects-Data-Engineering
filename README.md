@@ -9,7 +9,7 @@
 </p>
 
 ---
-### ▶️ [Projekt 2 – Data Engineering OS (Open Source Plattform)](./project-2-Data-Engineering-OS/README.md)
+### ▶️ [Projekt 2 – Data Engineering (Open Source Plattform)](./project-2-Data-Engineering-OS/README.md)
 
 ---
 
