@@ -23,8 +23,9 @@ Ziel des Projekts ist der Aufbau einer modularen und erweiterbaren Data-Engineer
 ##  Architektur
 
 <p align="center">
-  <img src="data-engineering-os-architektur_os.png" alt="Architekturdiagramm" width="700"/>
+  <img src="project-2-Data-Engineering-OS/datenarchitekt_os.png" alt="Data Engineering OS Architektur" width="700"/>
 </p>
+
 
 Die Archietktur basiert auf einem modularen Baukastenprinzip.
 Jede Bestandteil (Ingeation, Processing, Storage, Monitoring) ist entkoppelt, um Wiederverwendbarkeit und Austauschbarkeit zu ermöglichen.
