@@ -49,6 +49,7 @@ Die Bereitstellung und Verwaltung der Azure-Ressourcen erfolgte automatisiert mi
 
 ##  Verwendete Technologien
 
+- Terraform 
 - Networking
 - Azure Data Factory (ADF)
 - Azure Data Lake Gen2
