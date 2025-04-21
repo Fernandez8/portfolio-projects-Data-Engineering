@@ -110,7 +110,8 @@ Für den analytischen Zugriff wurde ein **Star Schema** implementiert, bestehend
   - Product (ID, Name, Category, Brand)
   - Channel (Web, Mobile App, In-store)
   - Campaign (Campaign ID, Type, Start/End Date)
-  - ---
+  - ...
+  
 
 Die Modellierung und Transformation der Daten erfolgte mit **dbt (Data Build Tool)**, wodurch eine transparente, versionierte und dokumentierte Datenpipeline aufgebaut wurde.
 
