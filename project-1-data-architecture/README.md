@@ -104,12 +104,13 @@ Für den analytischen Zugriff wurde ein **Star Schema** implementiert, bestehend
 
 - Die **Fakten-Tabelle** enthält aggregierte Metriken wie z. B. Klickzahlen, Umsätze.
 - **Dimensionstabellen** liefern beschreibende Informationen zu Entitäten wie:
-  - Benutzer (User)
-  - Zeit (Date/Time)
-  - Gerät (Device)
-  - Geografie (Region)
-  - ...
-
+  - Customer (ID, Name, Segment)
+  - Time (Date, Week, Month)
+  - Geography (Country, Region, City)
+  - Product (ID, Name, Category, Brand)
+  - Channel (Web, Mobile App, In-store)
+  - Campaign (Campaign ID, Type, Start/End Date)
+  - ---
 
 Die Modellierung und Transformation der Daten erfolgte mit **dbt (Data Build Tool)**, wodurch eine transparente, versionierte und dokumentierte Datenpipeline aufgebaut wurde.
 
