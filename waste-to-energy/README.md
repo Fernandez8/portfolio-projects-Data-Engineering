@@ -31,7 +31,5 @@ Ein solches System trägt nicht nur zur Einhaltung gesetzlicher Vorgaben bei, so
 
 ---
 
-### 1.3 Fazit
-
 Mit der Entwicklung eines intelligenten Monitoringsystems leistet dieses Projekt einen wichtigen Beitrag zum Umweltschutz. Durch die kontinuierliche Überwachung und die Vorhersage kritischer Emissionen wird es möglich, frühzeitig einzugreifen und die Auswirkungen auf Mensch und Natur zu minimieren.  
 Das Projekt ist damit ein weiterer Schritt in Richtung einer nachhaltigeren und verantwortungsbewussteren Abfallwirtschaft.
