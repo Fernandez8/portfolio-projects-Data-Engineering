@@ -1,4 +1,4 @@
-# Luftemissionen im Blick – unser Beitrag für die Umwelt
+# Luftemissionen im Blick – ein Beitrag für die Umwelt
 
 ## 1. Ausgangslage und Ziel des Projekts
 
