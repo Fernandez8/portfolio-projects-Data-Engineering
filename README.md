@@ -41,9 +41,13 @@
   <img src="project-2-Data-Engineering-OS/Visualizierung_grafana.png" alt="Data Engineering OS Architektur" width="700"/>
 </p>
 
+### ▶️ [Projekt3 Waste to Energy](./waste-to-energy/README.md)
 
-
-
+---
+<p align="center">
+<figcaption>Waste to Energy</figcaption>
+  <img src="waste-to-energy/Waste-incineration.png" alt="Waste to Energy Architektur" width="700"/>
+</p>
 
 
 
