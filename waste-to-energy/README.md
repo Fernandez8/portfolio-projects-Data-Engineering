@@ -2,12 +2,12 @@
 
 ## 1. Ausgangslage und Ziel des Projekts
 
-### Ausgangslage
+### 1.1 Ausgangslage
 
 Bei der Verbrennung von Abfällen entstehen verschiedene Schadstoffe in der Luft, wie zum Beispiel Kohlenmonoxid (CO), Stickoxide (NOₓ), Schwefeldioxid (SO₂), Salzsäure (HCl) und Ammoniak (NH₃).  
 Damit diese Schadstoffe nicht in zu großer Menge in die Umwelt gelangen, gibt es strenge gesetzliche Vorgaben. Deshalb müssen die Emissionen laufend gemessen und kontrolliert werden.
 
-### Ziel des Projekts
+### 1.2 Ziel des Projekts
 
 Das Ziel dieses Projekts ist es, ein modernes System zu entwickeln, das:
 
@@ -31,7 +31,7 @@ Ein solches System trägt nicht nur zur Einhaltung gesetzlicher Vorgaben bei, so
 
 ---
 
-### Fazit
+### 1.3 Fazit
 
 Mit der Entwicklung eines intelligenten Monitoringsystems leistet dieses Projekt einen wichtigen Beitrag zum Umweltschutz. Durch die kontinuierliche Überwachung und die Vorhersage kritischer Emissionen wird es möglich, frühzeitig einzugreifen und die Auswirkungen auf Mensch und Natur zu minimieren.  
 Das Projekt ist damit ein weiterer Schritt in Richtung einer nachhaltigeren und verantwortungsbewussteren Abfallwirtschaft.
