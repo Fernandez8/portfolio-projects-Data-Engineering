@@ -9,7 +9,7 @@
 </p>
 
 ---
-### ▶️ [Projekt 2 – Data Engineering (Open Source Plattform)](./project-2-Data-Engineering-OS/README.md)
+### ▶️ [Projekt 2 - Data Engineering (Open Source Plattform)](./project-2-Data-Engineering-OS/README.md)
 
 ---
 
@@ -41,7 +41,7 @@
   <img src="project-2-Data-Engineering-OS/Visualizierung_grafana.png" alt="Data Engineering OS Architektur" width="700"/>
 </p>
 
-### ▶️ [Projekt3 Waste to Energy](./waste-to-energy/README.md)
+### ▶️ [Projekt 3 - Waste to Energy](./waste-to-energy/README.md)
 
 ---
 <p align="center">
