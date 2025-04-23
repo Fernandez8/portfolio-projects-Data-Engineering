@@ -4,7 +4,7 @@
 
 ### 1.1 Ausgangslage
 
-Bei der Verbrennung von Abfällen entstehen verschiedene Schadstoffe in der Luft, wie zum Beispiel Kohlenmonoxid (CO), Stickoxide (NOₓ), Schwefeldioxid (SO₂), Salzsäure (HCl) und Ammoniak (NH₃).  
+Bei der Verbrennung von Abfällen entstehen verschiedene Schadstoffe in der Luft, wie zum Beispiel Kohlenmonoxid (CO), Stickoxide (NOₓ), Schwefeldioxid (SO₂), Salzsäure (HCl), ...
 Damit diese Schadstoffe nicht in zu großer Menge in die Umwelt gelangen, gibt es strenge gesetzliche Vorgaben. Deshalb müssen die Emissionen laufend gemessen und kontrolliert werden.
 
 ### 1.2 Ziel des Projekts
