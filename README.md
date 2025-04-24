@@ -1,4 +1,4 @@
-▶️ [Projekt 1 – Moderne Datenplattform in Azure](./project-1-data-architecture/README.md)
+### ▶️ [Projekt 1 – Moderne Datenplattform in Azure](./project-1-data-architecture/README.md)
 
 ---
 
