@@ -19,7 +19,7 @@ Ein solches System trägt nicht nur zur Einhaltung gesetzlicher Vorgaben bei, so
 Zur Realisierung dieses Ziels umfasst das Projekt mehrere wichtige Schritte der datengetriebenen Analyse:
 
 - Statistische Analyse der historischen Emissionsdaten zur Erkennung von Mustern und saisonalen Schwankungen,  
-- Vorverarbeitung der Messdaten,  
+- Vorverarbeitung der Messdatenn,  
 - Labeling der Daten zur Unterscheidung zwischen normalen und potenziell kritischen Situationen,  
 - Durchführung statistischer Tests, um die Unabhängigkeit zwischen verschiedenen Gruppen sicherzustellen,  
 - Modellierung und Vorhersage der Emissionsentwicklung,  
