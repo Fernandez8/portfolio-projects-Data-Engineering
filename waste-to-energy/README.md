@@ -22,7 +22,8 @@ Zur Realisierung dieses Ziels umfasst das Projekt mehrere wichtige Schritte der 
 - Vorverarbeitung der Messdaten,  
 - Labeling der Daten zur Unterscheidung zwischen normalen und potenziell kritischen Situationen,  
 - Durchführung statistischer Tests, um die Unabhängigkeit zwischen verschiedenen Gruppen sicherzustellen,  
-- Modellierung und Vorhersage der Emissionsentwicklung mithilfe moderner Machine-Learning-Verfahren,  
+- Modellierung und Vorhersage der Emissionsentwicklung,  
+- Analyse von Kausalzusammenhängen zwischen Prozessparametern und Emissionen
 - sowie die Berechnung von Wahrscheinlichkeiten, mit denen sich abschätzen lässt, ob ein vorhergesagter Punkt als Anomalie einzustufen ist oder nicht.  
 - sowie die Bereitstellung des Systems und dessen kontinuierliches Monitoring
 
