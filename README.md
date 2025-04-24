@@ -5,7 +5,7 @@
 ##  Architekturdiagramm
 
 <p align="center">
-  <img src="datenarchitekt.png" alt="Datenarchitektur" width="700"/>
+  <img src="project-1-data-architecture/datenarchitekt.png" alt="Datenarchitektur" width="700"/>
 </p>
 
 ---
