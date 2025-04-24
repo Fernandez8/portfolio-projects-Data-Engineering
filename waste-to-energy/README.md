@@ -35,6 +35,11 @@ Zur Realisierung dieses Ziels umfasst das Projekt mehrere wichtige Schritte der 
   <img src="anomalies_over_time.png" alt="Anomalien über die Zeit" width="700"/>
 </p>
 ---
+<p align="center">
+<figcaption> Threshold</figcaption>
+  <img src="Threshold.png" alt="Threshold-basierte Methode" width="700"/>
+</p>
+---
 
 <p align="center">
   <figure>
