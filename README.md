@@ -45,6 +45,11 @@
 
 ---
 <p align="center">
+<figcaption>Anomalien im Zeitverlauf</figcaption>
+  <img src="waste-to-energy/anomalies_over_time.png" alt="Data Engineering OS Architektur" width="700"/>
+</p>
+---
+<p align="center">
   <figcaption>Luftemissionen im Blick – ein Beitrag für die Umwelty</figcaption>
   <img src="waste-to-energy/Waste-incineration.png" alt="Waste to Energy Architektur" width="700"/>
   <figcaption>
