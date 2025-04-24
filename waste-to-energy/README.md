@@ -14,7 +14,7 @@ Das Ziel dieses Projekts ist es, ein modernes System zu entwickeln, das:
 1. die entstehenden Emissionen automatisch überwacht, und  
 2. frühzeitig vorhersagen kann, wenn bestimmte Grenzwerte möglicherweise überschritten werden.
 
-Ein solches System trägt nicht nur zur Einhaltung gesetzlicher Vorgaben bei, sondern unterstützt auch die Optimierung des thermischen Verwertungsprozesses selbst – im Sinne eines nachhaltigeren Umgangs mit Ressourcen und einer besseren Luftqualität.
+Ein solches System trägt nicht nur zur Einhaltung gesetzlicher Vorgaben bei, sondern unterstützt auch die Optimierung des thermischen Verwertungsprozesses selbst, im Sinne eines nachhaltigeren Umgangs mit Ressourcen und einer besseren Luftqualität.
 
 Zur Realisierung dieses Ziels umfasst das Projekt mehrere wichtige Schritte der datengetriebenen Analyse:
 
