@@ -17,6 +17,11 @@ Das Ziel dieses Projekts ist es, ein modernes System zu entwickeln, das:
 Ein solches System trägt nicht nur zur Einhaltung gesetzlicher Vorgaben bei, sondern unterstützt auch die Optimierung des thermischen Verwertungsprozesses selbst – im Sinne eines nachhaltigeren Umgangs mit Ressourcen und einer besseren Luftqualität.
 
 ---
+<p align="center">
+<figcaption>Anomalien im Zeitverlauf</figcaption>
+  <img src="anomalies_over_time.png" alt="Data Engineering OS Architektur" width="700"/>
+</p>
+---
 
 <p align="center">
   <figure>
