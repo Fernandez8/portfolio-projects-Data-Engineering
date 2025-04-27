@@ -35,14 +35,6 @@
   <img src="project-2-Data-Engineering-OS/Datenbank.png" alt="Data Engineering OS Architektur" width="700"/>
 </p>
 
---
-<p align="center">
-<figcaption>Visualisierung mit Grafana</figcaption>
-  <img src="project-2-Data-Engineering-OS/Visualizierung_grafana.png" alt="Data Engineering OS Architektur" width="700"/>
-</p>
-
-### ▶️ [Projekt 3 - Waste to Energy](./waste-to-energy/README.md)
-
 ---
 <p align="center">
 <figcaption>Überwachung der Emissionen im Zeitverlauf</figcaption>
