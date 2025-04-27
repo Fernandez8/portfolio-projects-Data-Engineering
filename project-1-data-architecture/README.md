@@ -1,4 +1,4 @@
-#  Projekt 1 – Konzeption einer modernen Datenplattform in der Azure Cloud
+#  Projekt - Konzeption einer modernen Datenplattform in der Azure Cloud
 
 ## Inhaltsverzeichnis
 
