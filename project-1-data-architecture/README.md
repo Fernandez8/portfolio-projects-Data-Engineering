@@ -139,7 +139,6 @@ Jede aus MinIO extrahierte Datei wird durch das Hinzufügen einer spezifischen S
 - Kafka
 - PostgreSQL
 - Dagster
-- Airbyte
 - dbt
 - Kubernetes
 - Argo CD
