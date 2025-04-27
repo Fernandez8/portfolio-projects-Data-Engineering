@@ -48,11 +48,7 @@
 <figcaption>Anomalien im Zeitverlauf</figcaption>
   <img src="waste-to-energy/anomalies_over_time.png" alt="Anomalien im Zeitverlauf" width="700"/>
 </p>
----
-<p align="center">
-<figcaption> Threshold</figcaption>
-  <img src="waste-to-energy/Threshold.png" alt="Threshold-basierte Methode" width="700"/>
-</p>
+
 ---
 <p align="center">
   <figcaption>Luftemissionen im Blick – ein Beitrag für die Umwelty</figcaption>
