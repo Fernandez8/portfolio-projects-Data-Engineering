@@ -118,7 +118,7 @@ Für den analytischen Zugriff wurde ein Star Schema implementiert, bestehend aus
 Die Modellierung und Transformation der Daten erfolgte mit dbt (Data Build Tool), wodurch eine transparente, versionierte und dokumentierte Datenpipeline aufgebaut wurde. Zusätzlich wurden Flat Tables erstellt, um eine vereinfachte und performante Nutzung der Daten für Reporting- und Analysezwecke zu ermöglichen.
 
 ---
-## Architektur
+## Datenflussarchitektur 
 
 <p align="center">
   <img src="on_prem_Cloud.png" alt="Datenarchitektur" width="700"/>
@@ -126,7 +126,7 @@ Die Modellierung und Transformation der Daten erfolgte mit dbt (Data Build Tool)
 
 
 ---
-Datenflussarchitektur :
+
 Jede aus MinIO extrahierte Datei wird durch das Hinzufügen einer spezifischen Spalte angereichert, um einem geschäftlichen Bedarf gerecht zu werden. Die angereicherte Datei wird anschließend in PostgreSQL gespeichert. Nach der Speicherung löst Dagster DBT aus, das die Tabelle abruft, transformiert und die transformierte Version erneut in PostgreSQL speichert.
 
 
