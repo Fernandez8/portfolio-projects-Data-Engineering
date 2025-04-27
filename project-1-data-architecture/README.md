@@ -140,7 +140,7 @@ Jede aus MinIO extrahierte Datei wird durch das Hinzufügen einer spezifischen S
 - dbt
 - Kubernetes
 - Argo CD
-- API (Kafka Connect ou Confluent Cloud probable)
+- API 
 - Application interne (App)
 - Azure PostgreSQL
 
