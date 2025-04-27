@@ -16,20 +16,18 @@
   <img src="project-2-Data-Engineering-OS/datenarchitekt_os.png" alt="Data Engineering OS Architektur" width="700"/>
 </p>
 
-
-
+### Streaming-Ingestion
 <p align="center">
-<figcaption>Streaming-Ingestion</figcaption>
   <img src="project-2-Data-Engineering-OS/Streaming-Ingestion.png" alt="Data Engineering OS Architektur" width="700"/>
 </p>
 
+### Data Streaming 
 <p align="center">
-<figcaption> Data Streaming </figcaption>
   <img src="project-2-Data-Engineering-OS/Streaming.png" alt="Data Engineering OS Architektur" width="700"/>
 </p>
 
+### Datenbank 
 <p align="center">
-<figcaption>Datenbank</figcaption>
   <img src="project-2-Data-Engineering-OS/Datenbank.png" alt="Data Engineering OS Architektur" width="700"/>
 </p>
 
