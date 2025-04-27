@@ -61,4 +61,4 @@
 </p>
 
 
-### ▶️ [Projekt 4 – IIoT Management](./project-4-IIoT-management/README.md)
+### ▶️ [Projekt 4 – IIoT - Management](./project-4-IIoT-management/README.md)
