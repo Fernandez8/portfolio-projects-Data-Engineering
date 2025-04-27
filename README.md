@@ -45,7 +45,7 @@
 
 ---
 <p align="center">
-<figcaption>Anomalien im Zeitverlauf</figcaption>
+<figcaption>Überwachung der Emissionen im Zeitverlauf</figcaption>
   <img src="waste-to-energy/anomalies_over_time.png" alt="Überwachung der Emissionen im Zeitverlauf" width="700"/>
 </p>
 
