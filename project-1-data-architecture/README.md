@@ -25,16 +25,16 @@ Die Bereitstellung und Verwaltung der Azure-Ressourcen erfolgte automatisiert mi
 
 ##  Projekthighlights
 
-- Entwicklung einer vollständigen **Medallion-Architektur** (Bronze → Silver → Gold)
-- Nutzung von **Azure Data Factory (ADF)** zur Orchestrierung und Automatisierung der Datenpipelines
-- Inkrementelle Datenextraktion aus **Azure Data Lake Gen2**
+- Entwicklung einer vollständigen Medallion-Architektur (Bronze → Silver → Gold)
+- Nutzung von Azure Data Factory (ADF) zur Orchestrierung und Automatisierung der Datenpipelines
+- Inkrementelle Datenextraktion aus Azure Data Lake Gen2
 - Integration externer Datenquellen (z. B. PostgreSQL) zur Anreicherung
-- Verarbeitung und Transformation mit **Databricks** und **PySpark**
-- Einsatz von **Delta Live Tables** für skalierbares, zuverlässiges Streaming und Batch-Processing
-- Modellierung eines **Star Schemas** für analytische Auswertungen
-- Laden transformierter Daten in **Azure Synapse Analytics** als Data Warehouse
-- Erstellung interaktiver Reports mit **Power BI** für Business Insights
-- Sicherheitsmanagement via **Azure Key Vault** und rollenbasierter Zugriffskontrolle
+- Verarbeitung und Transformation mit Databricks und PySpark
+- Einsatz von Delta Live Tables für skalierbares, zuverlässiges Streaming und Batch-Processing
+- Modellierung eines Star Schemas für analytische Auswertungen
+- Laden transformierter Daten in Azure Synapse Analytics als Data Warehouse
+- Erstellung interaktiver Reports mit Power BI für Business Insights
+- Sicherheitsmanagement via Azure Key Vault und rollenbasierter Zugriffskontrolle
 - Versionskontrolle und Zusammenarbeit 
 
 ---
@@ -75,11 +75,11 @@ Die Bereitstellung und Verwaltung der Azure-Ressourcen erfolgte automatisiert mi
 Die Architektur wurde erweitert, um auch Datenströme in Echtzeit zu verarbeiten. Die folgenden Komponenten wurden integriert:
 
 - **Stream Integration**: Aufnahme kontinuierlicher Datenströme aus verschiedenen Quellen (z. B. IoT, Telemetrie, Klickdaten)
-- **Stream Processing**: Verarbeitung der Datenströme mit **Azure Stream Analytics**, inkl. Fensterfunktionen, Filter, Aggregationen und Joins
-- **Stream Storage**: Speicherung der Streaming-Daten in Echtzeit in **Azure Data Lake Gen2** oder in einem Hot Layer
-- **Real-Time Analytics**: Bereitstellung von Live-Kennzahlen und Dashboards in **Power BI** und **Azure Synapse Analytics**
+- **Stream Processing**: Verarbeitung der Datenströme mit Azure Stream Analytics, inkl. Fensterfunktionen, Filter, Aggregationen und Joins
+- **Stream Storage**: Speicherung der Streaming-Daten in Echtzeit in Azure Data Lake Gen2 oder in einem Hot Layer
+- **Real-Time Analytics**: Bereitstellung von Live-Kennzahlen und Dashboards in Power BI und Azure Synapse Analytics
 
-Diese Erweiterung ermöglicht die Analyse von **Live-Daten** in nahezu Echtzeit und schafft die Grundlage für reaktive Entscheidungsfindung (z. B. Alarme, Monitoring, User Experience).
+Diese Erweiterung ermöglicht die Analyse von Live-Daten in nahezu Echtzeit und schafft die Grundlage für reaktive Entscheidungsfindung (z. B. Alarme, Monitoring, User Experience).
 
 ---
 
@@ -91,11 +91,11 @@ Zur Verbesserung der Performance und Effizienz bei der Analyse großer Datenmeng
 - **Indexierung** für häufig abgefragte Felder, um Zugriffsgeschwindigkeit bei Abfragen zu erhöhen  
 -  **Bucketing** für gleichmäßige Verteilung von Daten über Speicherblöcke und bessere Performance bei Joins  
 -  **Clustering** in Databricks zur physikalischen Sortierung nach häufig genutzten Spalten  
--  Einsatz von **kompakten, spaltenbasierten Dateiformaten** wie **Parquet** und **Delta Lake**, um Scan-Zeit und Speicherverbrauch zu reduzieren  
--  **Predicate Pushdown** und **Column Pruning**, um nur relevante Daten und Spalten zu laden  
+-  Einsatz von kompakten, spaltenbasierten Dateiformaten wie Parquet und Delta Lake, um Scan-Zeit und Speicherverbrauch zu reduzieren  
+-  **Predicate Pushdown** und Column Pruning, um nur relevante Daten und Spalten zu laden  
 -  **Materialisierte Sichten** (Materialized Views) für vordefinierte, schnell ladbare Abfragen  
 -  **Caching** von Zwischenergebnissen in Spark/Databricks für iterative Analysen  
--  **Datenkomprimierung** und **Dateikonsolidierung** (Compaction) zur Speicheroptimierung und Beschleunigung von Lesevorgängen
+-  **Datenkomprimierung** und Dateikonsolidierung (Compaction) zur Speicheroptimierung und Beschleunigung von Lesevorgängen
 
 Diese Maßnahmen führten zu einer signifikanten Reduzierung der Latenzzeit bei analytischen Abfragen und verbesserten gleichzeitig die Skalierbarkeit des gesamten Datenmodells.
 
@@ -103,7 +103,7 @@ Diese Maßnahmen führten zu einer signifikanten Reduzierung der Latenzzeit bei 
 
 ##  Datenmodellierung – Star Schema
 
-Für den analytischen Zugriff wurde ein **Star Schema** implementiert, bestehend aus einer zentralen **Fakten-Tabelle** und mehreren **Dimensionstabellen**:
+Für den analytischen Zugriff wurde ein Star Schema implementiert, bestehend aus einer zentralen Fakten-Tabelle und mehreren Dimensionstabellen:
 
 - Die **Fakten-Tabelle** enthält aggregierte Metriken wie z. B. Klickzahlen, Umsätze.
 - **Dimensionstabellen** liefern beschreibende Informationen zu Entitäten wie:
@@ -115,6 +115,6 @@ Für den analytischen Zugriff wurde ein **Star Schema** implementiert, bestehend
   - Campaign (Campaign ID, Type, Start/End Date)
   - ...
 
-Die Modellierung und Transformation der Daten erfolgte mit **dbt (Data Build Tool)**, wodurch eine transparente, versionierte und dokumentierte Datenpipeline aufgebaut wurde. Zusätzlich wurden Flat Tables erstellt, um eine vereinfachte und performante Nutzung der Daten für Reporting- und Analysezwecke zu ermöglichen.
+Die Modellierung und Transformation der Daten erfolgte mit dbt (Data Build Tool), wodurch eine transparente, versionierte und dokumentierte Datenpipeline aufgebaut wurde. Zusätzlich wurden Flat Tables erstellt, um eine vereinfachte und performante Nutzung der Daten für Reporting- und Analysezwecke zu ermöglichen.
 
 ---

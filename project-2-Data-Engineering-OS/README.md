@@ -25,8 +25,8 @@ Ziel des Projekts ist der Aufbau einer modularen und erweiterbaren Data-Engineer
   <img src="datenarchitekt_os.png" alt="Data Engineering OS Architektur" width="700"/>
 </p>
 
-Die Architektur basiert auf einem **modularen Baukastenprinzip**.  
-Jede Komponente (Ingestion, Processing, Storage, Monitoring) ist **entkoppelt**, um Wiederverwendbarkeit und Austauschbarkeit zu ermöglichen.
+Die Architektur basiert auf einem modularen Baukastenprinzip.  
+Jede Komponente (Ingestion, Processing, Storage, Monitoring) ist entkoppelt, um Wiederverwendbarkeit und Austauschbarkeit zu ermöglichen.
 
 ---
 
@@ -34,8 +34,8 @@ Jede Komponente (Ingestion, Processing, Storage, Monitoring) ist **entkoppelt**,
 
 - Standardisierte und automatisierte Datenverarbeitung
 - Unterstützung von Batch- und Echtzeitverarbeitung
-- Integrierte Datenqualitätssicherung mit **Great Expectations**
-- Visualisierung aktueller Daten in **Grafana**
+- Integrierte Datenqualitätssicherung mit Great Expectations
+- Visualisierung aktueller Daten in Grafana
 - Einsatz ausschließlich quelloffener Komponenten (Open Source)
 
 ---
