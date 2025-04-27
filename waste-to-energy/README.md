@@ -28,7 +28,7 @@ Zur Realisierung dieses Ziels umfasst das Projekt mehrere wichtige Schritte der 
 - sowie die Bereitstellung des Systems und dessen kontinuierliches Monitoring
 
 **Die einzelnen Schritte werden in diesem Dokument jedoch nicht im Detail dargestellt.**
-
+3. 
 ---
 <p align="center">
 <figcaption>Anomalien im Zeitverlauf</figcaption>

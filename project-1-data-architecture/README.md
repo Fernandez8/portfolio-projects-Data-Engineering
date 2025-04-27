@@ -64,6 +64,9 @@ Die Bereitstellung und Verwaltung der Azure-Ressourcen erfolgte automatisiert mi
 - Azure DevOps
 - dbt (Data Build Tool)
 - SQL / Python
+- Medaillon Data Architecture
+- Delta Lake
+- Parquet Format
 
 ---
 
