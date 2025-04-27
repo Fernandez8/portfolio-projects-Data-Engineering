@@ -27,9 +27,10 @@ Zur Realisierung dieses Ziels umfasst das Projekt mehrere wichtige Schritte der 
 - sowie die Berechnung von Wahrscheinlichkeiten, mit denen sich abschätzen lässt, ob ein vorhergesagter Punkt als Anomalie einzustufen ist oder nicht.  
 - sowie die Bereitstellung des Systems und dessen kontinuierliches Monitoring
 
-**Die einzelnen Schritte werden in diesem Dokument jedoch nicht im Detail dargestellt.**
-3. 
----
+**Die einzelnen Schritte werden in diesem Dokument jedoch nicht im Detail dargestellt.**   
+   
+   
+------
 <p align="center">
 <figcaption>Anomalien im Zeitverlauf</figcaption>
   <img src="anomalies_over_time.png" alt="Überwachung der Emissionen im Zeitverlauf" width="700"/>
