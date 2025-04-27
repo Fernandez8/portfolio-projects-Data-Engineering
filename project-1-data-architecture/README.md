@@ -121,7 +121,7 @@ Die Modellierung und Transformation der Daten erfolgte mit dbt (Data Build Tool)
 ## ETL - Datenflussarchitektur
 
 <p align="center">
-  <img src="on_prem_Cloud.png" alt="Datenarchitektur" width="700"/>
+  <img src="hybridarchitektur.png" alt="Datenarchitektur" width="700"/>
 </p>
 
 
