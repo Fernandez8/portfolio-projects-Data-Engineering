@@ -2,13 +2,15 @@
 
 ## Inhaltsverzeichnis
 
-- [ Architekturübersicht](#-architekturübersicht)
-- [Projekthighlights](#-projekthighlights)
-- [Architekturdiagramm](#️-architekturdiagramm)
-- [ Verwendete Technologien](#️-verwendete-technologien)
-- [ Echtzeit-Datenverarbeitung mit Azure Stream Analytics](#-echtzeit-datenverarbeitung-mit-azure-stream-analytics)
-- [ Optimierung der Datenabfragen](#-optimierung-der-datenabfragen)
-- [Datenmodellierung – Star Schema](#-datenmodellierung--star-schema)
+- [ Architekturübersicht](#architekturübersicht)
+- [Projekthighlights](#projekthighlights)
+- [Architekturdiagramm](#architekturdiagramm)
+- [Verwendete Technologien](#verwendete-technologien)
+- [Echtzeit-Datenverarbeitung mit Azure Stream Analytics](#echtzeit-datenverarbeitung-mit-azure-stream-analytics)
+- [Optimierung der Datenabfragen](#optimierung-der-datenabfragen)
+- [Datenmodellierung – Star Schema](#datenmodellierung-star-schema)
+- [ETL - Datenflussarchitektur](#etl-datenflussarchitektur)
+- [Verwendete Werkzeuge](#verwendete-werkzeuge)
 
 
 ---
