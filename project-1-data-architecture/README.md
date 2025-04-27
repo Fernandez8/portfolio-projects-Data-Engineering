@@ -135,7 +135,7 @@ Jede aus MinIO extrahierte Datei wird durch das Hinzufügen einer spezifischen S
 - Terraform
 - ache NiFi
 - MinIO
-- AWS S3
+- S3
 - Kafka
 - PostgreSQL
 - Dagster
