@@ -114,10 +114,7 @@ Für den analytischen Zugriff wurde ein **Star Schema** implementiert, bestehend
   - Channel (Web, Mobile App, In-store)
   - Campaign (Campaign ID, Type, Start/End Date)
   - ...
-  
 
-Die Modellierung und Transformation der Daten erfolgte mit **dbt (Data Build Tool)**, wodurch eine transparente, versionierte und dokumentierte Datenpipeline aufgebaut wurde.
-
-Dieses Modell erleichtert die Abfrage-Performance in **Power BI** und **Azure Synapse Analytics**, verbessert die **Lesbarkeit der Datenstrukturen** und unterstützt **Self-Service BI** für Fachanwender.
+Die Modellierung und Transformation der Daten erfolgte mit **dbt (Data Build Tool)**, wodurch eine transparente, versionierte und dokumentierte Datenpipeline aufgebaut wurde. Zusätzlich wurden Flat Tables erstellt, um eine vereinfachte und performante Nutzung der Daten für Reporting- und Analysezwecke zu ermöglichen.
 
 ---
