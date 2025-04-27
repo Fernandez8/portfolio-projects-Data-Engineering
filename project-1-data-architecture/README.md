@@ -1,4 +1,4 @@
-#  Projekt - Konzeption einer modernen Datenplattform in der Azure Cloud
+#  Projekt - Konzeption einer modernen Datenplattform
 
 ## Inhaltsverzeichnis
 
@@ -39,7 +39,7 @@ Die Bereitstellung und Verwaltung der Azure-Ressourcen erfolgte automatisiert mi
 
 ---
 
-## ETL - Datenflussarchitektur
+## Architektur
 
 <p align="center">
   <img src="datenarchitekt.png" alt="Datenarchitektur" width="700"/>
