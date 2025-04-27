@@ -39,7 +39,7 @@ Die Bereitstellung und Verwaltung der Azure-Ressourcen erfolgte automatisiert mi
 
 ---
 
-## Architektur
+## ETL - Datenflussarchitektur
 
 <p align="center">
   <img src="datenarchitekt.png" alt="Datenarchitektur" width="700"/>
