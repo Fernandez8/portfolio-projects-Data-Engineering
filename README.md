@@ -2,7 +2,7 @@
 
 ---
 
-##  Architekturdiagramm
+#### Datenplattform
 
 <p align="center">
   <img src="project-1-data-architecture/datenarchitekt.png" alt="Datenarchitektur" width="700"/>
@@ -11,6 +11,7 @@
 ---
 ### ▶️ [Projekt 2 - Data Engineering (Open Source Plattform)](./project-2-Data-Engineering-OS/README.md)
 
+#### Streaming Data Pipeline
 ---
 
 <p align="center">
@@ -38,8 +39,9 @@
 ---
 ### ▶️ [Projekt 3 – IIoT -  Management](./project-4-IIoT-management/README.md)
 
+#### Überwachung der Emissionen im Zeitverlauf 
+
 <p align="center">
-  <figcaption>Überwachung der Emissionen im Zeitverlauf</figcaption>
   <img src="project-3-IIoT-management/waste-to-energy/anomalies_over_time.png" alt="Überwachung der Emissionen im Zeitverlauf" width="700"/>
 </p>
 
