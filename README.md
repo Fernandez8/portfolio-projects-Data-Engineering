@@ -37,7 +37,7 @@
 </p>
 
 ---
-### ▶️ [Projekt 3 – IIoT Management](./project-3-IIoT-management/README.md)
+### ▶️ [Projekt 3 – IIoT Management](./project-3-IIoT-management/waste-to-energy/README.md)
 
 #### Überwachung der Emissionen im Zeitverlauf 
 
