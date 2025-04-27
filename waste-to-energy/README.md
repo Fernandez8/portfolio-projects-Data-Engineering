@@ -29,8 +29,9 @@ Zur Realisierung dieses Ziels umfasst das Projekt mehrere wichtige Schritte der 
 
 **Die einzelnen Schritte werden in diesem Dokument jedoch nicht im Detail dargestellt.**   
    
-   
-------
+
+------   
+
 <p align="center">
 <figcaption>Anomalien im Zeitverlauf</figcaption>
   <img src="anomalies_over_time.png" alt="Überwachung der Emissionen im Zeitverlauf" width="700"/>
