@@ -130,7 +130,7 @@ Die Modellierung und Transformation der Daten erfolgte mit dbt (Data Build Tool)
 Jede aus MinIO extrahierte Datei wird durch das Hinzufügen einer spezifischen Spalte angereichert, um einem geschäftlichen Bedarf gerecht zu werden. Die angereicherte Datei wird anschließend in PostgreSQL gespeichert. Nach der Speicherung löst Dagster DBT aus, das die Tabelle abruft, transformiert und die transformierte Version erneut in PostgreSQL speichert.
 
 
-# Verwendete Werkzeuge
+## Verwendete Werkzeuge
 
 - Terraform
 - ache NiFi
