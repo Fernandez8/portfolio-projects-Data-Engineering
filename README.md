@@ -1,8 +1,8 @@
 ### ▶️ [Projekt 1 – Moderne Datenplattform in Azure](./project-1-data-architecture/README.md)
 ---
-#### Datenplattform
 
 <p align="center">
+<figcaption>Datenplattform
   <img src="project-1-data-architecture/datenarchitekt.png" alt="Datenarchitektur" width="700"/>
 </p>
 
@@ -11,23 +11,26 @@
 
 #### Streaming Data Pipeline
 ---
-### Architektur
+
 <p align="center">
+<figcaption>Architektur</figcaption>
   <img src="project-2-Data-Engineering-OS/datenarchitekt_os.png" alt="Data Engineering OS Architektur" width="700"/>
 </p>
 
-### Streaming-Ingestion
+
+
 <p align="center">
+<figcaption>Streaming-Ingestion</figcaption>
   <img src="project-2-Data-Engineering-OS/Streaming-Ingestion.png" alt="Data Engineering OS Architektur" width="700"/>
 </p>
 
-### Data Streaming 
 <p align="center">
+<figcaption> Data Streaming </figcaption>
   <img src="project-2-Data-Engineering-OS/Streaming.png" alt="Data Engineering OS Architektur" width="700"/>
 </p>
 
-### Datenbank 
 <p align="center">
+<figcaption>Datenbank</figcaption>
   <img src="project-2-Data-Engineering-OS/Datenbank.png" alt="Data Engineering OS Architektur" width="700"/>
 </p>
 
@@ -41,9 +44,8 @@
 </p>
 
 ---
-### Luftemissionen im Blick – ein Beitrag für die Umwelty
-
 <p align="center">
+  <figcaption>Luftemissionen im Blick – ein Beitrag für die Umwelty</figcaption>
   <img src="project-3-IIoT-management/waste-to-energy/Waste-incineration.png" alt="Waste to Energy Architektur" width="700"/>
   <figcaption>
     <a href="https://powerzone.clarkpublicutilities.com/learn-about-renewable-energy/biomass-energy/" target="_blank">
