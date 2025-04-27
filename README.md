@@ -36,6 +36,8 @@
 </p>
 
 ---
+### ▶️ [Projekt 3 – IIoT -  Management](./project-4-IIoT-management/README.md)
+
 <p align="center">
   <figcaption>Überwachung der Emissionen im Zeitverlauf</figcaption>
   <img src="project-3-IIoT-management/waste-to-energy/anomalies_over_time.png" alt="Überwachung der Emissionen im Zeitverlauf" width="700"/>
@@ -51,6 +53,3 @@
     </a>
   </figcaption>
 </p>
-
-
-### ▶️ [Projekt 3 – IIoT -  Management](./project-4-IIoT-management/README.md)
