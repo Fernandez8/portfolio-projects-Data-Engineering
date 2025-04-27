@@ -32,7 +32,7 @@ Zur Realisierung dieses Ziels umfasst das Projekt mehrere wichtige Schritte der 
 ---
 <p align="center">
 <figcaption>Anomalien im Zeitverlauf</figcaption>
-  <img src="anomalies_over_time.png" alt="Anomalien über die Zeit" width="700"/>
+  <img src="anomalies_over_time.png" alt="Überwachung der Emissionen im Zeitverlauf" width="700"/>
 </p>
 ---
 
