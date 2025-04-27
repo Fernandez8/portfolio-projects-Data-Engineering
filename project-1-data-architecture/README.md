@@ -39,10 +39,9 @@ Die Bereitstellung und Verwaltung der Azure-Ressourcen erfolgte automatisiert mi
 
 ---
 
-## Architekturdiagramm
+## Architektur
 
 <p align="center">
-<figcaption>Datenarchitektur Übersicht</figcaption>
   <img src="datenarchitekt.png" alt="Datenarchitektur" width="700"/>
 </p>
 
@@ -119,9 +118,9 @@ Für den analytischen Zugriff wurde ein Star Schema implementiert, bestehend aus
 Die Modellierung und Transformation der Daten erfolgte mit dbt (Data Build Tool), wodurch eine transparente, versionierte und dokumentierte Datenpipeline aufgebaut wurde. Zusätzlich wurden Flat Tables erstellt, um eine vereinfachte und performante Nutzung der Daten für Reporting- und Analysezwecke zu ermöglichen.
 
 ---
+## Architektur
 
 <p align="center">
-<figcaption>Datenarchitektur Übersicht</figcaption>
   <img src="on_prem_Cloud.png" alt="Datenarchitektur" width="700"/>
 </p>
 
