@@ -31,12 +31,10 @@ Zur Realisierung dieses Ziels umfasst das Projekt mehrere wichtige Schritte der 
    
 
 ------   
-
 <figure style="text-align: center;">
-  <figcaption style="margin-bottom: 10px;">Überwachung der Emissionen im Zeitverlauf</figcaption>
+  <figcaption style="display: block; margin-bottom: 20px;">Überwachung der Emissionen im Zeitverlauf</figcaption>
   <img src="anomalies_over_time.png" alt="Überwachung der Emissionen im Zeitverlauf" width="700"/>
 </figure>
-
 
 ---
 
