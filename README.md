@@ -41,8 +41,9 @@
 </p>
 
 ---
+### Luftemissionen im Blick – ein Beitrag für die Umwelty
+
 <p align="center">
-  <figcaption>Luftemissionen im Blick – ein Beitrag für die Umwelty</figcaption>
   <img src="project-3-IIoT-management/waste-to-energy/Waste-incineration.png" alt="Waste to Energy Architektur" width="700"/>
   <figcaption>
     <a href="https://powerzone.clarkpublicutilities.com/learn-about-renewable-energy/biomass-energy/" target="_blank">
