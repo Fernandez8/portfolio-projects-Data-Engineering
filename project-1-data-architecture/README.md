@@ -124,3 +124,24 @@ Die Modellierung und Transformation der Daten erfolgte mit dbt (Data Build Tool)
 </p>
 
 ---
+Datenflussarchitektur :
+Jede aus MinIO extrahierte Datei wird durch das Hinzufügen einer spezifischen Spalte angereichert, um einem geschäftlichen Bedarf gerecht zu werden. Die angereicherte Datei wird anschließend in PostgreSQL gespeichert. Nach der Speicherung löst Dagster DBT aus, das die Tabelle abruft, transformiert und die transformierte Version erneut in PostgreSQL speichert.
+
+
+# Verwendete Werkzeuge
+
+- Apache NiFi
+- MinIO
+- AWS S3
+- Kafka
+- PostgreSQL
+- Dagster
+- Airbyte
+- dbt
+- Kubernetes
+- Argo CD
+- API (Kafka Connect ou Confluent Cloud probable)
+- Application interne (App)
+- Azure PostgreSQL
+
+---
