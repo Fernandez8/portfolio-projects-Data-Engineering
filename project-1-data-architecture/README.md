@@ -8,8 +8,8 @@
 - [Verwendete Technologien](#verwendete-technologien)
 - [Echtzeit-Datenverarbeitung mit Azure Stream Analytics](#echtzeit-datenverarbeitung-mit-azure-stream-analytics)
 - [Optimierung der Datenabfragen](#optimierung-der-datenabfragen)
-- [Datenmodellierung – Star Schema](#datenmodellierung-star-schema)
-- [ETL - Datenflussarchitektur](#etl-datenflussarchitektur) 
+- [Datenmodellierung–Star Schema](#datenmodellierung-star-schema)
+- [ETL-Datenflussarchitektur](#etl-datenflussarchitektur) 
 - [Verwendete Werkzeuge](#verwendete-werkzeuge)
 
 ---
@@ -119,7 +119,7 @@ Für den analytischen Zugriff wurde ein Star Schema implementiert, bestehend aus
 Die Modellierung und Transformation der Daten erfolgte mit dbt (Data Build Tool), wodurch eine transparente, versionierte und dokumentierte Datenpipeline aufgebaut wurde. Zusätzlich wurden Flat Tables erstellt, um eine vereinfachte und performante Nutzung der Daten für Reporting- und Analysezwecke zu ermöglichen.
 
 ---
-## ETL - Datenflussarchitektur
+## ETL  Datenflussarchitektur
 
 <p align="center">
   <img src="hybridarchitektur.png" alt="Datenarchitektur" width="700"/>
