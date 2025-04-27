@@ -130,7 +130,8 @@ Jede aus MinIO extrahierte Datei wird durch das Hinzufügen einer spezifischen S
 
 # Verwendete Werkzeuge
 
-- Apache NiFi
+- Terraform
+- ache NiFi
 - MinIO
 - AWS S3
 - Kafka
