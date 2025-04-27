@@ -1,7 +1,5 @@
 ### ▶️ [Projekt 1 – Moderne Datenplattform in Azure](./project-1-data-architecture/README.md)
-
 ---
-
 #### Datenplattform
 
 <p align="center">
@@ -13,9 +11,8 @@
 
 #### Streaming Data Pipeline
 ---
-
+### Architektur
 <p align="center">
-<figcaption>Architekturdiagram</figcaption>
   <img src="project-2-Data-Engineering-OS/datenarchitekt_os.png" alt="Data Engineering OS Architektur" width="700"/>
 </p>
 
@@ -32,7 +29,7 @@
 </p>
 
 <p align="center">
-<figcaption>Inhalt der Datenbank</figcaption>
+<figcaption>Datenbank</figcaption>
   <img src="project-2-Data-Engineering-OS/Datenbank.png" alt="Data Engineering OS Architektur" width="700"/>
 </p>
 
