@@ -12,23 +12,7 @@ Damit diese Schadstoffe nicht in zu großer Menge in die Umwelt gelangen, gibt e
 Das Ziel dieses Projekts ist es, ein modernes System zu entwickeln, das:
 
 1. die entstehenden Emissionen automatisch überwacht, und  
-2. frühzeitig vorhersagen kann, wenn bestimmte Grenzwerte möglicherweise überschritten werden.
-
-Ein solches System trägt nicht nur zur Einhaltung gesetzlicher Vorgaben bei, sondern unterstützt auch die Optimierung des thermischen Verwertungsprozesses selbst, im Sinne eines nachhaltigeren Umgangs mit Ressourcen und einer besseren Luftqualität.
-
-Zur Realisierung dieses Ziels umfasst das Projekt mehrere wichtige Schritte der datengetriebenen Analyse:
-
-- Statistische Analyse der historischen Emissionsdaten zur Erkennung von Mustern und saisonalen Schwankungen,  
-- Vorverarbeitung der Messdatenn,  
-- Labeling der Daten zur Unterscheidung zwischen normalen und potenziell kritischen Situationen,  
-- Durchführung statistischer Tests, um die Unabhängigkeit zwischen verschiedenen Gruppen sicherzustellen,  
-- Modellierung und Vorhersage der Emissionsentwicklung,  
-- Analyse von Kausalzusammenhängen zwischen Prozessparametern und Emissionen
-- sowie die Berechnung von Wahrscheinlichkeiten, mit denen sich abschätzen lässt, ob ein vorhergesagter Punkt als Anomalie einzustufen ist oder nicht.  
-- sowie ....
-
-**Die einzelnen Schritte werden in diesem Dokument jedoch nicht im Detail dargestellt.**   
-   
+2. frühzeitig vorhersagen kann, wenn bestimmte Grenzwerte möglicherweise überschritten werden.   
 
 ------   
 <figure style="text-align: center;">
