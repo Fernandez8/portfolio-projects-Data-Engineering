@@ -42,6 +42,7 @@ Die Bereitstellung und Verwaltung der Azure-Ressourcen erfolgte automatisiert mi
 ## Architekturdiagramm
 
 <p align="center">
+<figcaption>Datenarchitektur Übersicht</figcaption>
   <img src="datenarchitekt.png" alt="Datenarchitektur" width="700"/>
 </p>
 
@@ -120,8 +121,10 @@ Die Modellierung und Transformation der Daten erfolgte mit dbt (Data Build Tool)
 ---
 
 <p align="center">
+<figcaption>Datenarchitektur Übersicht</figcaption>
   <img src="on_prem_Cloud.png" alt="Datenarchitektur" width="700"/>
 </p>
+
 
 ---
 Datenflussarchitektur :
