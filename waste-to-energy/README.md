@@ -34,8 +34,4 @@ Das Ziel dieses Projekts ist es, ein modernes System zu entwickeln, das:
 </p>
 
 ---
-Mit der Entwicklung eines intelligenten Monitoringsystems leistet dieses Projekt einen wichtigen Beitrag zum Umweltschutz.
-Durch die kontinuierliche Überwachung und die Vorhersage kritischer Emissionen wird es möglich, frühzeitig einzugreifen und die Auswirkungen auf Mensch und Natur zu minimieren. Das Projekt ist damit ein weiterer Schritt in Richtung einer nachhaltigeren und verantwortungsbewussteren Abfallwirtschaft.
 
-
-Ein zweiter Teil des Projektes besteht in der Entwicklung eines ergänzenden Systems zur automatisierten Erkennung und Klassifikation von Abfällen. Dieses System soll in der Lage sein, eingehende Abfallströme präzise zu identifizieren und nach Art, Zusammensetzung oder potenziellem Schadstoffgehalt zu klassifizieren. Auf diese Weise können Entsorgungsprozesse gezielter gesteuert, Recyclingpotenziale besser genutzt und Emissionen bereits am Ursprung reduziert werden.  
