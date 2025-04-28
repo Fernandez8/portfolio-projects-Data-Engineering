@@ -1,6 +1,6 @@
 ## Proxmox - Host für die Anwendungen
 
-Proxmox wird als Plattform für die Virtualisierung verwendet, um verschiedene Anwendungen und Datenpipelines zu hosten. Es stellt eine zuverlässige und skalierbare Infrastruktur für die Verwaltung von virtuellen Maschinen und Containern bereit. Alle Anwendungen und Datenverarbeitungsprozesse werden auf Proxmox gehostet, was eine hohe Verfügbarkeit und einfache Verwaltung der Ressourcen ermöglicht.
+Proxmox wird als Plattform für die Virtualisierung verwendet, Um verschiedene Anwendungen und Datenpipelines zu hosten. Es stellt eine zuverlässige und skalierbare Infrastruktur für die Verwaltung von virtuellen Maschinen und Containern bereit. Alle Anwendungen und Datenverarbeitungsprozesse werden auf Proxmox gehostet, was eine hohe Verfügbarkeit und einfache Verwaltung derr Ressourcen ermöglicht.
 
 <p align="center">
     <img src="project-1-data-architecture/proxmox_logo.png" alt="Datenarchitektur" width="700"/>
