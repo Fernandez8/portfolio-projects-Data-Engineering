@@ -130,6 +130,7 @@ Die Modellierung und Transformation der Daten erfolgte mit dbt (Data Build Tool)
 Jede aus MinIO extrahierte Datei wird durch das Hinzufügenn einer spezifischen Spalte angereichert, um den geschäftlichen Anforderungen gerecht zu werden. Die angereicherte Datei wird anschließend in PostgreSQL gespeichert. Nach der Speicherung transformiert DBT die Tabelle, und die transformierte Version wird erneut in PostgreSQL gespeichertt.
 
 
+
 ## Verwendete Werkzeuge
 
 - Terraform
@@ -147,3 +148,8 @@ Jede aus MinIO extrahierte Datei wird durch das Hinzufügenn einer spezifischen 
 - Azure PostgreSQL
 
 ---
+## 
+
+<p align="center">
+  <img src="cloudArchitektur.png" alt="Datenarchitektur" width="700"/>
+</p>
