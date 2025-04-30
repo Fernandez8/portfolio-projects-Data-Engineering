@@ -17,10 +17,6 @@ Das Ziel dieses Projekts ist es, ein modernes System zu entwickeln, das:
    → Multistep Forecasting
 
 ------   
-<figure style="text-align: center;">
-  <figcaption style="display: block; margin-bottom: 20px;">Überwachung der Emissionen im Zeitverlauf</figcaption>
-  <img src="anomalies_over_time.png" alt="Überwachung der Emissionen im Zeitverlauf" width="700"/>
-</figure>
 
 ---
 
