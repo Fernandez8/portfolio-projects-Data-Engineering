@@ -16,7 +16,6 @@ Das Ziel dieses Projekts ist es, ein modernes System zu entwickeln, das:
    → Recursive Forecasting
    → Multistep Forecasting
 
-
 ------   
 <figure style="text-align: center;">
   <figcaption style="display: block; margin-bottom: 20px;">Überwachung der Emissionen im Zeitverlauf</figcaption>
