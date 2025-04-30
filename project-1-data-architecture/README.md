@@ -148,7 +148,8 @@ Jede aus MinIO extrahierte Datei wird durch das Hinzufügenn einer spezifischen 
 - Azure PostgreSQL
 
 ---
-## 
+
+## ETL-Datenflussarchitektur
 
 <p align="center">
   <img src="cloudArchitektur.png" alt="Datenarchitektur" width="700"/>
