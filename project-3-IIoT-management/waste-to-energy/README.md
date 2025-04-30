@@ -13,7 +13,10 @@ Das Ziel dieses Projekts ist es, ein modernes System zu entwickeln, das:
 
 1. die entstehenden Emissionen automatisch überwacht, und  
 2. frühzeitig vorhersagen kann, wenn bestimmte Grenzwerte möglicherweise überschritten werden.   
-3. sowie die Vorhersage von bestimmten Schadstoffen wie HCL und CO2 ermöglicht.
+
+   → Recursive Forecasting      
+   → Multistep Forecasting
+
 
 ------   
 <figure style="text-align: center;">
