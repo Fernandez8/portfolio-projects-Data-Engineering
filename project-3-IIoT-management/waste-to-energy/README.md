@@ -14,7 +14,7 @@ Das Ziel dieses Projekts ist es, ein modernes System zu entwickeln, das:
 1. die entstehenden Emissionen automatisch überwacht, und  
 2. frühzeitig vorhersagen kann, wenn bestimmte Grenzwerte möglicherweise überschritten werden.   
 
-   → Recursive Forecasting      
+  → Recursive Forecasting   
    → Multistep Forecasting
 
 
