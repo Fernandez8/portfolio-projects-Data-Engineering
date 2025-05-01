@@ -6,6 +6,11 @@ Proxmox wird als Plattform für die Virtualisierung verwendet, Um verschiedene A
     <img src="project-1-data-architecture/proxmox_logo.png" alt="Datenarchitektur" width="700"/>
 </p>
 
+
+
+
+
+
 ---
 
 
