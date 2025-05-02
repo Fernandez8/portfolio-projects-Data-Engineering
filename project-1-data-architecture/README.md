@@ -182,6 +182,12 @@ Diese Architektur ermöglicht eine sichere und effiziente Verwaltung der Daten u
   <img src="architecturFabric.png" alt="Datenarchitektur" width="700"/>
 </p>
 
+### Datentransformationsprozess in Power BI
+
+<p align="center">
+  <img src="flow.png" alt="Datenarchitektur" width="700"/>
+</p>
+
 
 ## 1. Probleme in Power BI
 Power BI funktioniert gut, aber wenn es darum geht, mehrere Datensätze zu verwalten, gibt es Probleme mit duplizierter Logik und verschiedenen Versionen der Daten in jedem Arbeitsbereich.
