@@ -172,6 +172,30 @@ Diese Architektur beschreibt einen ETL-Datenfluss (Extrahieren, Transformieren, 
 8. **Azure Key Vault**: Sicherer Schlüsselmanagement-Dienst zur Verwaltung von Geheimnissen und Schlüsseln für die Authentifizierung.
 9. **Azure Data Lake**: Speicherung und Analyse der verarbeiteten Daten.
 
-
-
 Diese Architektur ermöglicht eine sichere und effiziente Verwaltung der Daten und sorgt für eine nahtlose Integration mit den Azure-Cloud-Services.
+
+
+
+## Microsoft Fabric 
+
+<p align="center">
+  <img src="architecturFabric.png" alt="Datenarchitektur" width="700"/>
+</p>
+
+
+## 1. Probleme in Power BI
+Power BI funktioniert gut, aber wenn es darum geht, mehrere Datensätze zu verwalten, gibt es Probleme mit duplizierter Logik und verschiedenen Versionen der Daten in jedem Arbeitsbereich.
+
+## 2. Lösung mit Microsoft Fabric
+Microsoft Fabric wird als Antwort auf diese Probleme präsentiert, indem es eine skalierbare, verwaltete und wiederverwendbare Datenarchitektur ermöglicht. Dadurch wird die Verwaltung der Daten vereinfacht und zentralisiert.
+
+## 3. Merkmale von Microsoft Fabric
+- **OneLake**: Eine einzige, einheitliche Datenquelle für das Unternehmen, mit wiederverwendbarer Logik, die über Berichte, Abteilungen und Tools hinweg geteilt werden kann.
+- **Lakehouse**: Eine Kombination aus der Flexibilität eines Data Lakes und der Leistung eines Data Warehouses. Es ermöglicht die Speicherung sowohl strukturierter als auch unstrukturierter Daten an einem Ort und bietet Abfragemöglichkeiten mit SQL, DAX oder Python.
+- **Dataflows Gen2**: Wiederverwendbare, versionierte Datenflüsse mit modularen Transformationen und klarer Datenlinie. Sie bieten eine benutzerfreundliche ETL-Pipeline-Erfahrung.
+
+## 4. Fazit
+Microsoft Fabric wird als die fehlende Verbindung zwischen Datenengineering und BI-Governance dargestellt und macht Power BI zu einer umfassenden Plattform für moderne Datenanalysen, die über die einfache BI-Funktion hinausgeht.
+
+Zusammengefasst wird Microsoft Fabric als Lösung hervorgehoben, die die Verwaltung und Skalierbarkeit von Daten in Power BI optimiert und die Governance für Datenprojekte verbessert.
+
