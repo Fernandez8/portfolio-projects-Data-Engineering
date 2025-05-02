@@ -151,6 +151,27 @@ Jede aus MinIO extrahierte Datei wird durch das Hinzufügenn einer spezifischen 
 
 ## ETL-Datenflussarchitektur
 
+Diese Architektur beschreibt einen ETL-Datenfluss (Extrahieren, Transformieren, Laden) unter Verwendung von Microsoft Azure Cloud-Diensten. Die Daten werden aus den Quellsystemen extrahiert, transformiert und dann in einer sicheren Speicherlösung geladen. Die Authentifizierung erfolgt über Entra ID, um die Daten mit E-Mail-Adressen abzugleichen.
+
+
 <p align="center">
   <img src="cloudArchitektur.png" alt="Datenarchitektur" width="700"/>
 </p>
+
+
+
+### Technologischer Stack und Prozessbeschreibung:
+
+1. **Quellsysteme**: Extraction von Daten aus lokalen Systemen (Datenbanken oder andere Datenquellen).
+2. **Azure Data Factory (ADF)**: Orchestrierung von ETL-Pipelines zur Bewegung und Transformation von Daten in Azure.
+3. **DBT (Data Build Tool)**: Transformation von Daten mithilfe von SQL-Modellen in einem Data Warehouse.
+4. **Azure Machine Learning**: Erstellung und Bereitstellung von Machine-Learning-Modellen zur Analyse und Vorhersage von Daten.
+5. **Databricks**: Analyse und Verarbeitung großer Datenmengen in einer skalierbaren Cloud-Umgebung.
+6. **Entra ID**: Verwaltung von Identitäten und Abgleich der Benutzer anhand von E-Mails.
+7. **Power BI**: Visualisierung der verarbeiteten Daten für Endbenutzer.
+8. **Azure Key Vault**: Sicherer Schlüsselmanagement-Dienst zur Verwaltung von Geheimnissen und Schlüsseln für die Authentifizierung.
+9. **Azure Data Lake**: Speicherung und Analyse der verarbeiteten Daten.
+
+
+
+Diese Architektur ermöglicht eine sichere und effiziente Verwaltung der Daten und sorgt für eine nahtlose Integration mit den Azure-Cloud-Services.
