@@ -7,10 +7,6 @@ Proxmox wird als Plattform für die Virtualisierung verwendet, Um verschiedene A
 </p>
 
 
-
-
-
-
 ---
 
 
@@ -58,6 +54,13 @@ Proxmox wird als Plattform für die Virtualisierung verwendet, Um verschiedene A
 <figcaption>Überwachung der Emissionen im Zeitverlauf</figcaption>
   <img src="project-3-IIoT-management/waste-to-energy/anomalies_over_time.png" alt="Überwachung der Emissionen im Zeitverlauf" width="700"/>
 </p>
+
+---
+<p align="center">
+<figcaption>Überwachung der Emissionen im Zeitverlauf</figcaption>
+  <img src="project-3-IIoT-management/waste-to-energy/HCL_Bild.png" alt="Überwachung der Emissionen im Zeitverlauf" width="700"/>
+</p>
+
 
 ---
 <p align="center">
