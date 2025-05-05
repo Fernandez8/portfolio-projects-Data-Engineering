@@ -46,7 +46,7 @@ Die folgende Visualisierung zeigt die Vorhersage der HCl-Werte mit 95% Konfidenz
 
 <figure style="text-align: center;">
   <figcaption style="display: block; margin-bottom: 20px;">Überwachung der Emissionen im Zeitverlauf</figcaption>
-  <img src="HCL.png" alt="HCl-Vorhersage mit Konfidenzintervall" width="700"/>
+  <img src="HCL_Bild.png" alt="HCl-Vorhersage mit Konfidenzintervall" width="700"/>
 </figure>
 
 
@@ -56,7 +56,7 @@ Diese detaillierte Ansicht zeigt die Vorhersage für einen gegebenen Zeitraum
 
 <figure style="text-align: center;">
   <figcaption style="display: block; margin-bottom: 20px;">Überwachung der Emissionen im Zeitverlauf</figcaption>
-  <img src="HCL.png" alt="HCl-Vorhersage mit Konfidenzintervall" width="700"/>
+  <img src="HCL_Bild.png" alt="HCl-Vorhersage mit Konfidenzintervall" width="700"/>
 </figure>
 
 
