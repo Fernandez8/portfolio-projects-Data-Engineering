@@ -2,7 +2,8 @@
 
 ## Einleitung
 
-Die energetische Abfallverwertung stellt eine wesentliche Lösung für den Übergang zu einer Kreislaufwirtschaft dar. Die Verbrennung verschiedener Abfälle erzeugt jedoch gasförmige Emissionen, darunter Chlorwasserstoff (HCl), eine potenziell korrosive und schädliche Verbindung. Die Überwachung und Vorhersage der HCl-Werte sind daher entscheidend, um die Effizienz, Compliance und Sicherheit der Anlagen zu gewährleisten.
+Die energetische Abfallverwertung stellt eine wesentliche Lösung für den Übergang zu einer Kreislaufwirtschaft dar. Die Verbrennung verschiedener Abfälle erzeugt jedoch zahlreiche gasförmige Emissionen, darunter verschiedene Schadstoffe wie Stickoxide, Schwefeldioxid, Chlorwasserstoff und andere potentiell schädliche Verbindungen. Die kontinuierliche Überwachung und präzise Vorhersage dieser Emissionen sind entscheidend, um die Effizienz, Compliance und Sicherheit der Anlagen zu gewährleisten.
+
 
 ## Spezifische Problemstellung
 
@@ -87,6 +88,4 @@ Dieser doppelte Ansatz aus Anomalieerkennung und Vorhersage stellt einen bedeute
     </figcaption>
   </figure>
 </p>
-
----
 
