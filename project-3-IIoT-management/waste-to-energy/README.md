@@ -25,7 +25,7 @@ Die Kontrolle und Vorhersage der Schadstoffwerte stellen eine besonders wichtige
 
 ### Methodischer Ansatz
 - **Datenvorverarbeitung**: Bereinigung, Normalisierung und Feature-Engineering der Zeitreihendaten
-- **Deep Learningr** für Zeitreihenvorhersage mit angepassten Attention-Mechanismen
+- **NNr** für Zeitreihenvorhersage mit angepassten Attention-Mechanismen
 - **Ensemble-Methoden** für robuste Konfidenzintervalle
 - **Unüberwachte und überwachte Lernansätze** kombiniert für die Anomalieerkennung
 - **Cross-Validation** zur robusten Modellbewertung und Parameterwahl
