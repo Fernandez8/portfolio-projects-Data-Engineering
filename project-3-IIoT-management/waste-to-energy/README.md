@@ -82,7 +82,7 @@ Die Fähigkeit, die Schadstoffwerte präzise vorherzusagen, ermöglicht die Opti
 
 ### Prädiktionsmodell
 - **MAE (Mean Absolute Error)**: 0,71 mg/Nm³ für HCl-Vorhersagen
-- **Prognosegenauigkeit**: 96,97% der tatsächlichen Werte liegen innerhalb der 95%-Konfidenzintervalle
+- **Prognosegenauigkeit**: 96,97% 
 - **Vorhersagehorizont**: Präzise Prognosen bis zu einer Woche im Voraus, mit der Möglichkeit zur Erweiterung auf mehrere Wochem
 
 ### Anomalieerkennung
