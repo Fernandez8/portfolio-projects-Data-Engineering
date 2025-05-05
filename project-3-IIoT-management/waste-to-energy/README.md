@@ -43,12 +43,21 @@ Die Kontrolle und Vorhersage der Schadstoffwerte stellen eine besonders wichtige
 ### HCl-Vorhersage mit Konfidenzintervall
 Die folgende Visualisierung zeigt die Vorhersage der HCl-Werte mit 95% Konfidenzintervall. Die blaue Linie stellt historische Daten dar, während die rote Linie mit Punktmarkierungen die vorhergesagten Werte anzeigt.   
 
-![HCl-Vorhersage mit Konfidenzintervall](predict_hcl.png)
+
+<figure style="text-align: center;">
+  <figcaption style="display: block; margin-bottom: 20px;">Überwachung der Emissionen im Zeitverlauf</figcaption>
+  <img src="HCL.png" alt="HCl-Vorhersage mit Konfidenzintervall" width="700"/>
+</figure>
+
+
 
 ### Detaillierte Ansicht der Vorhersage
 Diese detaillierte Ansicht zeigt die Vorhersage für einen gegebenen Zeitraum 
 
-![Detaillierte Vorhersage](detailed_prediction.png)
+<figure style="text-align: center;">
+  <figcaption style="display: block; margin-bottom: 20px;">Überwachung der Emissionen im Zeitverlauf</figcaption>
+  <img src="HCL.png" alt="HCl-Vorhersage mit Konfidenzintervall" width="700"/>
+</figure>
 
 
 ### Anomalieerkennung
