@@ -2,7 +2,7 @@
 
 ## Einleitung
 
-Die energetische Abfallverwertung stellt eine wesentliche Lösung für den Übergang zu einer Kreislaufwirtschaft dar. Die Verbrennung verschiedener Abfälle erzeugt jedoch zahlreiche gasförmige Emissionen, darunter verschiedene Schadstoffe wie Stickoxide, Schwefeldioxid, Chlorwasserstoff und andere potentiell schädliche Verbindungen. Die kontinuierliche Überwachung und präzise Vorhersage dieser Emissionen sind entscheidend, um die Effizienz, Compliance und Sicherheit der Anlagen zu gewährleisten.
+Die energetische Abfallverwertung stellt eine wesentliche Lösung für den Übergang zu einer Kreislaufwirtschaft dar. Die Verbrennung verschiedener Abfälle erzeugt jedoch zahlreiche gasförmige Emissionen, darunter verschiedene Schadstoffe wie Stickoxide, Schwefeldioxid, Chlorwasserstoff und andere potentiell schädliche Verbindungen. Die kontinuierliche Überwachung und präzise Vorhersage dieser Emissionen sind entscheidend, um Die Effizienz, Compliance, die Sicherheit der Anlagenn und insbesondere den Schutz der Umwelt zu gewährleisten. Eine optimierte Kontrolle der Emissionen trägt maßgeblich dazu bei, die Umweltauswirkungen zu minimieren und eine nachhaltige Abfallverwertung zu fördern.
 
 
 ## Spezifische Problemstellung
