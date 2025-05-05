@@ -100,7 +100,7 @@ Diese Ergebnisse übertreffen bestehende Lösungen in der Branche um durchschnit
 - **Kontinuierliche Verbesserung der betrieblichen Praktiken**
 
 ---
-
+## Biomasseenergie und Abfall-zu-Energie: Energie aus Abfall
 <p align="center">
   <figure>
     <img src="Waste-incineration.png" alt="Waste to Energy Architektur" width="700"/>
