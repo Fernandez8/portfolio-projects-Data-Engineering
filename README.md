@@ -46,26 +46,32 @@ Proxmox wird als Plattform für die Virtualisierung verwendet, Um verschiedene A
   <img src="project-2-Data-Engineering-OS/Datenbank.png" alt="Data Engineering OS Architektur" width="700"/>
 </p>
 
+
 ---
-### ▶️ [Projekt 3 – Management](./project-3-IIoT-management/waste-to-energy/README.md)
+### ▶️ [Projekt 3 – Management](./project-3-Infrastruktur/README.md)
+
+---
+### ▶️ [Projekt 4 – Management](./project-4-IIoT-management/waste-to-energy/README.md)
 
 
 <p align="center">
 <figcaption>Überwachung der Emissionen im Zeitverlauf</figcaption>
-  <img src="project-3-IIoT-management/waste-to-energy/anomalies_over_time.png" alt="Überwachung der Emissionen im Zeitverlauf" width="700"/>
+  <img src="project-4-IIoT-management/waste-to-energy/anomalies_over_time.png" alt="Überwachung der Emissionen im Zeitverlauf" width="700"/>
 </p>
+
+
 
 ---
 <p align="center">
 <figcaption>HCl-Vorhersage</figcaption>
-  <img src="project-3-IIoT-management/waste-to-energy/HCL_Bild.png" alt="Überwachung der Emissionen im Zeitverlauf" width="700"/>
+  <img src="project-4-IIoT-management/waste-to-energy/HCL_Bild.png" alt="Überwachung der Emissionen im Zeitverlauf" width="700"/>
 </p>
 
 
 ---
 <p align="center">
   <figcaption>Luftemissionen im Blick – ein Beitrag für die Umwelty</figcaption>
-  <img src="project-3-IIoT-management/waste-to-energy/Waste-incineration.png" alt="Waste to Energy Architektur" width="700"/>
+  <img src="project-4-IIoT-management/waste-to-energy/Waste-incineration.png" alt="Waste to Energy Architektur" width="700"/>
   <figcaption>
     <a href="https://powerzone.clarkpublicutilities.com/learn-about-renewable-energy/biomass-energy/" target="_blank">
       Source: Clark Public Utilities Biomass Energy
