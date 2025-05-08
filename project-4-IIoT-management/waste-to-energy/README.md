@@ -108,6 +108,7 @@ Diese Ergebnisse übertreffen bestehende Lösungen in der Branche um durchschnit
 - **Minimierung des Risikos regulatorischer Überschreitungen**
 - **Kontinuierliche Verbesserung der betrieblichen Praktiken**
 
+
 ---
 ## Biomasseenergie und Abfall-zu-Energie: Energie aus Abfall
 <p align="center">
