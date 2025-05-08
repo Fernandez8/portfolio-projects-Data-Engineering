@@ -1,12 +1,12 @@
-# Project 4: Infrastruktur
+## Project 4: Infrastruktur
 
 
 
-# AWS VPC Multi-Zonen-Architektur
+### AWS VPC Multi-Zonen-Architektur
 
 Architekturdiagramm, das ein AWS VPC (10.10.0.0/24) mit öffentlichen und privaten Subnetzen darstellt, konfiguriert nach Sicherheits-Best-Practices.
 
-## Schlüsselkomponenten
+#### Schlüsselkomponenten
 - VPC mit öffentlichem (10.10.3.0/24) und privatem (10.10.4.0/24) Subnetz
 - Dedizierte Routing-Tabellen für jedes Subnetz
 - EC2-Instanzen, geschützt durch Sicherheitsgruppen
@@ -23,7 +23,7 @@ Diese Architektur folgt den Designprinzipien des AWS Well-Architected Frameworks
 ---
 
 
-# S3-Optimierung über VPC-Endpunkt (in progress)
+##### S3-Optimierung über VPC-Endpunkt (in progress)
 
 Um die Infrastrukturkosten zu senken und die Leistung zu verbessern, wurde die Architektur durch Hinzufügen eines Gateway-VPC-Endpunkts für S3 optimiert. Diese Konfiguration ermöglicht:
 
