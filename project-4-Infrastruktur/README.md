@@ -11,7 +11,7 @@ Architekturdiagramm, das ein AWS VPC (10.10.0.0/24) mit öffentlichen und privat
 
 Diese Architektur folgt den Designprinzipien des AWS Well-Architected Frameworks und bietet Sicherheit, hohe Verfügbarkeit und Skalierbarkeit.
 
-
+---
 <figure style="text-align: center;">
   <figcaption style="display: block; margin-bottom: 20px;">aws-architektur</figcaption>
   <img src="awsarchitektur.jpg" alt="aws-architektur" width="700"/>
