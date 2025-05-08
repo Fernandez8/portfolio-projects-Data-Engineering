@@ -48,7 +48,7 @@ Proxmox wird als Plattform für die Virtualisierung verwendet, Um verschiedene A
 
 
 ---
-### ▶️ [Projekt 3 – Management](./project-3-Infrastruktur/README.md)
+### ▶️ [Projekt 3 – Infrastruktur](./project-3-Infrastruktur/README.md)
 
 ---
 ### ▶️ [Projekt 4 – Management](./project-4-IIoT-management/waste-to-energy/README.md)
