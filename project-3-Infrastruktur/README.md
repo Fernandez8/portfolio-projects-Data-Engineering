@@ -1,6 +1,6 @@
-## AWS Cloud-Hybridarchitektur
+## AWS Cloud-Architektur
 
-Diese Architektur folgt den Designprinzipien des AWS Well-Architected Frameworks und bietet Sicherheit, hohe Verfügbarkeit und Skalierbarkeit.
+Diese AWS-Architektur zielt hauptsächlich darauf ab, eine sichere Cloud-Infrastruktur zum Sammeln, Speichern, Verarbeiten und Analysieren von Daten im großen Maßstab zu schaffen, während gleichzeitig eine sichere Verbindung zu bestehenden On-Premises-Systemen aufrechterhalten wird.
 
 ---
 <figure style="text-align: center;">
