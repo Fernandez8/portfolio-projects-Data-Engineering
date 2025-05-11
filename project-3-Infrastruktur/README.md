@@ -3,7 +3,7 @@
 Architekturdiagramm, das ein AWS VPC (10.10.0.0/24) mit öffentlichen und privaten Subnetzen darstellt, konfiguriert nach Sicherheits-Best-Practices.
 
 #### Schlüsselkomponenten
-- VPC mit öffentlichem (10.10.3.0/24) und privatem (10.10.4.0/24) Subnetz
+- VPC mit öffentlichem und privatem  Subnetz
 - Dedizierte Routing-Tabellen für jedes Subnetz
 - EC2-Instanzen, geschützt durch Sicherheitsgruppen
 - S3-Zugriff aus dem VPC
@@ -22,10 +22,10 @@ Diese Architektur folgt den Designprinzipien des AWS Well-Architected Frameworks
 
 Diese Liste enthält alle wichtigen AWS-Komponenten, die in dem Architekturdiagramm dargestellt sind:
 
-- VPC (Virtual Private Cloud) - 10.10.0.0/24
+- VPC (Virtual Private Cloud) 
 - Internet Gateway
-- Öffentliches Subnetz (10.10.3.0/24)
-- Privates Subnetz (10.10.4.0/24)
+- Öffentliches Subnetz 
+- Privates Subnetz 
 - ACL (Access Control Lists)
 - Sicherheitsgruppen
 - EC2 (Elastic Compute Cloud)
