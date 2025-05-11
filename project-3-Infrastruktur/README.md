@@ -13,7 +13,7 @@ Diese Architektur folgt den Designprinzipien des AWS Well-Architected Frameworks
 
 ---
 <figure style="text-align: center;">
-  <figcaption style="display: block; margin-bottom: 20px;">aws-architektur</figcaption>
+  <figcaption style="display: block; margin-bottom: 20px;">AWS-Architekturdiagramm mit einer hybriden Cloud-Umgebung</figcaption>
   <img src="awsarchitektur.png" alt="AWS-Architekturdiagramm mit einer hybriden Cloud-Umgebung" width="700"/>
 </figure>
 
