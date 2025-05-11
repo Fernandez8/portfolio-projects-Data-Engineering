@@ -14,8 +14,29 @@ Diese Architektur folgt den Designprinzipien des AWS Well-Architected Frameworks
 ---
 <figure style="text-align: center;">
   <figcaption style="display: block; margin-bottom: 20px;">aws-architektur</figcaption>
-  <img src="awsarchitektur.png" alt="aws-architektur" width="700"/>
+  <img src="awsarchitektur.png" alt="AWS-Architekturdiagramm mit einer hybriden Cloud-Umgebung" width="700"/>
 </figure>
+
+
+# AWS-Technologien in der Architektur
+
+Diese Liste enthält alle wichtigen AWS-Komponenten, die in dem Architekturdiagramm dargestellt sind:
+
+- VPC (Virtual Private Cloud) - 10.10.0.0/24
+- Internet Gateway
+- Öffentliches Subnetz (10.10.3.0/24)
+- Privates Subnetz (10.10.4.0/24)
+- ACL (Access Control Lists)
+- Sicherheitsgruppen
+- EC2 (Elastic Compute Cloud)
+- S3 (Simple Storage Service)
+- Gateway-Endpunkt
+- Site-to-Site VPN
+- SSO (Single Sign-On)
+- On-Premises
+- Desktop
+
+
 ---
 
 
