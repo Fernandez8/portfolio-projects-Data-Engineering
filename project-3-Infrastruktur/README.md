@@ -34,9 +34,6 @@ Diese Liste enthält alle wichtigen AWS-Komponenten, die in dem Architekturdiagr
 - Site-to-Site VPN
 - SSO (Single Sign-On)
 - On-Premises
-- Desktop
-
 
 ---
-
 
