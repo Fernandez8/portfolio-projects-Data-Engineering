@@ -10,9 +10,6 @@ Diese AWS-Architektur zielt hauptsächlich darauf ab, eine sichere Cloud-Infrast
 
 ---
 
-### Beschreibung
-Diese Architektur stellt unsere AWS-Cloud-Infrastruktur mit Hybrid-Konnektivität dar. Wir ermöglicht die sichere Bereitstellung unserer Anwendungen und behält gleichzeitig eine Verbindung zu unserer On-Premises-Infrastruktur.
-
 ### Verwendete Technologien
 - Terraform (für Infrastructure as Code)
 - VPC (Virtual Private Cloud) 
