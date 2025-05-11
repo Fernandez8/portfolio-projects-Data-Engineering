@@ -5,7 +5,7 @@ Diese AWS-Architektur zielt hauptsächlich darauf ab, eine sichere Cloud-Infrast
 ---
 <figure style="text-align: center;">
  <figcaption style="display: block; margin-bottom: 20px;">AWS-Architekturdiagramm mit einer hybriden Cloud-Umgebung</figcaption>
- <img src="awsarchitektur.jpg" alt="AWS-Architekturdiagramm mit einer hybriden Cloud-Umgebung" width="700"/>
+ <img src="awsarchitektur.png" alt="AWS-Architekturdiagramm mit einer hybriden Cloud-Umgebung" width="700"/>
 </figure>
 
 ---
