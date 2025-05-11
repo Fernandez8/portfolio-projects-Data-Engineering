@@ -1,6 +1,6 @@
 ### AWS VPC Multi-Zonen-Architektur
 
-Architekturdiagramm, das ein AWS VPC (10.10.0.0/24) mit öffentlichen und privaten Subnetzen darstellt, konfiguriert nach Sicherheits-Best-Practices.
+Architekturdiagramm, das ein AWS VPC mit öffentlichen und privaten Subnetzen darstellt, konfiguriert nach Sicherheits-Best-Practices.
 
 #### Schlüsselkomponenten
 - VPC mit öffentlichem und privatem  Subnetz
