@@ -15,10 +15,10 @@ Diese Architektur stellt unsere AWS-Cloud-Infrastruktur mit Hybrid-Konnektivitä
 
 ### Verwendete Technologien
 - Terraform (für Infrastructure as Code)
-- VPC (Virtual Private Cloud) - 10.10.0.0/24
+- VPC (Virtual Private Cloud) 
 - Internet Gateway
-- Öffentliches Subnetz (10.10.3.0/24)
-- Privates Subnetz (10.10.4.0/24)
+- Öffentliches Subnetz 
+- Privates Subnetz 
 - ACL (Access Control Lists)
 - Sicherheitsgruppen
 - EC2 (Elastic Compute Cloud)
