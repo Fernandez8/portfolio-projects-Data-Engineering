@@ -5,13 +5,13 @@ Diese Architektur folgt den Designprinzipien des AWS Well-Architected Frameworks
 ---
 <figure style="text-align: center;">
  <figcaption style="display: block; margin-bottom: 20px;">AWS-Architekturdiagramm mit einer hybriden Cloud-Umgebung</figcaption>
- <img src="awsarchitektur.png" alt="AWS-Architekturdiagramm mit einer hybriden Cloud-Umgebung" width="700"/>
+ <img src="awsarchitektur.jpg" alt="AWS-Architekturdiagramm mit einer hybriden Cloud-Umgebung" width="700"/>
 </figure>
 
 ---
 
 ### Beschreibung
-Diese Architektur stellt unsere AWS-Cloud-Infrastruktur mit Hybrid-Konnektivität dar. Sie ermöglicht die sichere Bereitstellung unserer Anwendungen und behält gleichzeitig eine Verbindung zu unserer On-Premises-Infrastruktur.
+Diese Architektur stellt unsere AWS-Cloud-Infrastruktur mit Hybrid-Konnektivität dar. Wir ermöglicht die sichere Bereitstellung unserer Anwendungen und behält gleichzeitig eine Verbindung zu unserer On-Premises-Infrastruktur.
 
 ### Verwendete Technologien
 - Terraform (für Infrastructure as Code)
@@ -39,3 +39,54 @@ Diese Architektur stellt unsere AWS-Cloud-Infrastruktur mit Hybrid-Konnektivitä
 - Trennung von öffentlichen und privaten Zonen
 - Verwendung von Sicherheitsgruppen zur Verkehrskontrolle
 - ACLs zur Verstärkung der Netzwerksicherheit
+
+
+### Terraform 
+
+---
+<figure style="text-align: center;">
+ <figcaption style="display: block; margin-bottom: 20px;">Terraform </figcaption>
+ <img src="terraform.jpg" alt="Terraform" width="700"/>
+</figure>
+
+---
+
+
+## Erkannte Probleme bei der Bereitstellung von Terraform und Lösungen
+
+### Problem 1: Deployment in falscher Umgebung
+
+**Risiko:** Die Ausführung eines für die Entwicklungsumgebung bestimmten Terraform-Deployments in der Produktionsumgebung kann kritische Infrastruktur zerstören oder verändern.
+
+**Lösungen:**
+- Einrichtung einer robusten CI/CD-Pipeline mit getrennten Umgebungen
+- Implementierung obligatorischer manueller Validierungen vor jedem Deployment in der Produktion
+- Verwendung unterschiedlicher und klar benannter Umgebungsvariablen
+- Konfiguration von Terraform-Workspaces zur Trennung der Zustände
+- Einrichtung automatisierter Tests vor dem Deployment
+
+### Problem 2: Versehentliche Zerstörung von Umgebungen durch Dritte
+
+**Risiko:** Eine dritte Person oder ein Kollege könnte versehentlich `terraform destroy` ausführen und die gesamte Infrastruktur löschen.
+
+**Lösungen:**
+- Implementierung eines rollenbasierten Zugriffsverwaltungssystems (RBAC)
+- Einschränkung der Berechtigungen für destruktive Befehle in sensiblen Umgebungen
+- Verwendung von Zustandssperren (State Locking) zur Vermeidung gleichzeitiger Änderungen
+- Aktivierung des Löschschutzes für kritische Ressourcen mit `prevent_destroy = true`
+- Einrichtung regelmäßiger Backups der Terraform-Zustandsdateien
+- Konfiguration von Mehrbenutzer-Genehmigungen für destruktive Operationen
+
+### Problem 3: Verwaltung von Geheimnissen und sensiblen Informationen
+
+**Risiko:** Offenlegung von Geheimnissen und Anmeldeinformationen im Terraform-Code.
+
+**Lösungen:**
+- Verwendung von Tresoren für Geheimnisse wie AWS Secrets Manager, HashiCorp Vault oder Azure Key Vault
+- Niemals Geheimnisse im Klartext in Konfigurationsdateien speichern
+- Einsatz von Umgebungsvariablen für sensible Informationen
+- Einrichtung eines Tools zur Erkennung von Geheimnissen in der CI/CD-Pipeline
+
+
+
+Durch die Befolgung dieser Grundsätze reduzieren wir  die mit der Verwendung von Terraform verbundenen Risiken erheblich und nutzen gleichzeitig die Vorteile der Infrastrukturautomatisierung optimal.
