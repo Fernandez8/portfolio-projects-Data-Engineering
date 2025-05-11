@@ -14,7 +14,7 @@ Diese Architektur folgt den Designprinzipien des AWS Well-Architected Frameworks
 ---
 <figure style="text-align: center;">
   <figcaption style="display: block; margin-bottom: 20px;">aws-architektur</figcaption>
-  <img src="awsarchitektur.jpg" alt="aws-architektur" width="700"/>
+  <img src="awsarchitektur.png" alt="aws-architektur" width="700"/>
 </figure>
 ---
 
