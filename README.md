@@ -50,3 +50,11 @@ Proxmox wird als Plattform für die Virtualisierung verwendet, Um verschiedene A
 ---
 ### ▶️ [Projekt 3 – Infrastruktur](./project-3-Infrastruktur/README.md)
 
+---
+<figure style="text-align: center;">
+ <figcaption style="display: block; margin-bottom: 20px;">AWS-Architekturdiagramm mit einer  Cloud-Umgebung</figcaption>
+ <img src="project-3-Infrastruktur/awsarchitektur.png" alt="AWS-Architekturdiagramm mit einer Cloud-Umgebung" width="700"/>
+</figure>
+
+---
+
