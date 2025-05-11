@@ -19,10 +19,3 @@ Diese Architektur folgt den Designprinzipien des AWS Well-Architected Frameworks
 ---
 
 
-##### S3-Optimierung über VPC-Endpunkt (in progress)
-
-Um die Infrastrukturkosten zu senken und die Leistung zu verbessern, wurde die Architektur durch Hinzufügen eines Gateway-VPC-Endpunkts für S3 optimiert. Diese Konfiguration ermöglicht:
-
-- Eine direkte Verbindung zwischen dem privaten Subnetz und S3 ohne Umweg über das NAT-Gateway
-- Reduzierte Latenz für S3-Operationen
-- Erhöhte Sicherheit, da der Datenverkehr innerhalb des AWS-Netzwerks bleibts
