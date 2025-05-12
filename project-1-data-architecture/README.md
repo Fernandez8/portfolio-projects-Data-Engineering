@@ -200,7 +200,7 @@ Microsoft Fabric wird als Antwort auf diese Probleme präsentiert, indem es eine
 - **Lakehouse**: Eine Kombination aus der Flexibilität eines Data Lakes und der Leistung eines Data Warehouses. Es ermöglicht die Speicherung sowohl strukturierter als auch unstrukturierter Daten an einem Ort und bietet Abfragemöglichkeiten mit SQL, DAX oder Python.
 - **Dataflows Gen2**: Wiederverwendbare, versionierte Datenflüsse mit modularen Transformationen und klarer Datenlinie. Sie bieten eine benutzerfreundliche ETL-Pipeline-Erfahrung.
 
-## 4. Fazit
+## 4. Conclusion
 Microsoft Fabric wird als die fehlende Verbindung zwischen Datenengineering und BI-Governance dargestellt und macht Power BI zu einer umfassenden Plattform für moderne Datenanalysen, die über die einfache BI-Funktion hinausgeht.
 
 Zusammengefasst wird Microsoft Fabric als Lösung hervorgehoben, die die Verwaltung und Skalierbarkeit von Daten in Power BI optimiert und die Governance für Datenprojekte verbessert.
