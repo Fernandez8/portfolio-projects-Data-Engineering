@@ -14,6 +14,7 @@
 <h2 align="center">  Forschungsprojekt: Optimierung synthetischer Daten für Machine Learning </h2>
 
 
+
 ## Übersicht
 
 Dieses Forschungsprojekt untersucht die Wechselbeziehung zwischen synthetischen Daten und Datenqualität mit dem Ziel, den Einsatz künstlich erzeugter Datensätze in Machine Learning-Anwendungen zu optimieren. Die Arbeit erfolgt unter fachkundiger Betreuung und baut auf fundierter Expertise im Bereich Datenqualität auf.
