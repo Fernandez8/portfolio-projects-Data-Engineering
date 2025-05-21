@@ -11,7 +11,7 @@
 4. Kontinuierliche Einhaltung von Vorschriften - Einrichtung einer automatisierten Berichtsplattform, die den Anforderungen der europäischen Umweltregulierungsbehörden entsprechende Berichte erstellt.
 -----
 
-<h2 align="center">HEIZOPTIM: Intelligentes Steuerungssystem für temperaturgesteuerte Heizungsanlagen in Wohngebäuden</h2>
+<h2 align="center">HEIZOPTIM: Intelligentes Steuerungssystem für temperaturgesteuerte Heizungsanlagen in Wohngebäuden (in Progress)</h2>
 
 ## Projektziele
 
