@@ -1,11 +1,16 @@
-## Proxmox - Host für die Anwendungen
+### ▶️ [Data Science & Analytics](./project)
 
-Proxmox wird als Plattform für die Virtualisierung verwendet, Um verschiedene Anwendungen und Datenpipelines zu hosten. Es stellt eine zuverlässige und skalierbare Infrastruktur für die Verwaltung von virtuellen Maschinen und Containern bereit. Alle Anwendungen und Datenverarbeitungsprozesse werden auf Proxmox gehostet, was eine hohe Verfügbarkeit und einfache Verwaltung derr Ressourcen ermöglicht. Proxmox ist auf meinem Mini-PC installiert, was eine kompakte Lösung für die Virtualisierung und das Hosting meiner Anwendungen bietet.
+# ECOEFFICIENT: Prädiktives Emissionsmanagement- und Energieoptimierungssystem für Müllverbrennungsanlagen
 
-<p align="center">
-    <img src="project-1-data-architecture/proxmox_logo.png" alt="Datenarchitektur" width="700"/>
-</p>
+## Projektziele
 
+1. Prädiktive Emissionsanalyse - Entwicklung und Bereitstellung eines intelligenten Systems zur präzisen Vorhersage der Art und Menge der erzeugten Schadstoffe basierend auf den Eigenschaften der behandelten Abfälle und den Betriebsparametern.
+
+2. Optimierung der Energieeffizienz - Implementierung mathematischer Algorithmen zur Maximierung der Energieerzeugung aus der Verbrennung unter Einhaltung der Umweltauflagen.
+
+3. Automatisierung der Qualitätskontrolle - Konzeption eines intelligenten Sortiersystems zur Identifizierung und Aussonderung problematischer Materialien vor deren Eingang in den Verbrennungsprozess.
+
+4. Kontinuierliche Einhaltung von Vorschriften - Einrichtung einer automatisierten Berichtsplattform, die den Anforderungen der europäischen Umweltregulierungsbehörden entsprechende Berichte erstellt.
 
 ---
 
