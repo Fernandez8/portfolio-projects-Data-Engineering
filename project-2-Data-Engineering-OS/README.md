@@ -22,8 +22,6 @@ Ziel des Projekts ist der Aufbau einer modularen und erweiterbaren Data-Engineer
 ###  Architektur
 
 <p align="center">
-  <img src="data-engineering-os-architektur_os.png" alt="Architekturdiagramm" width="700"/>
-  <br><br>
   <img src="datenarchitekt_os.png" alt="Data Engineering OS Architektur" width="700"/>
 </p>
 
