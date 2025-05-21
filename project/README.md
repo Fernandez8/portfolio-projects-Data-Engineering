@@ -11,6 +11,38 @@
 4. Kontinuierliche Einhaltung von Vorschriften - Einrichtung einer automatisierten Berichtsplattform, die den Anforderungen der europäischen Umweltregulierungsbehörden entsprechende Berichte erstellt.
 -----
 
+<h2 align="center">  Forschungsprojekt: Optimierung synthetischer Daten für Machine Learning </h2>
+
+
+## Übersicht
+
+Dieses Forschungsprojekt untersucht die Wechselbeziehung zwischen synthetischen Daten und Datenqualität mit dem Ziel, den Einsatz künstlich erzeugter Datensätze in Machine Learning-Anwendungen zu optimieren. Die Arbeit erfolgt unter fachkundiger Betreuung und baut auf fundierter Expertise im Bereich Datenqualität auf.
+
+## Forschungsschwerpunkte
+
+### Framework zur Datenqualitätsbewertung
+- Entwicklung eines umfassenden Verständnisses von Datenqualität durch systematische Analyse etablierter Bewertungsmetriken
+- Konzeption und Implementation von Methoden zur zuverlässigen Qualitätsmessung 
+- Erarbeitung praxisorientierter Qualitätsregeln als Grundlage für kontinuierliches Qualitätsmanagement
+
+### Generierung und Qualitätsanalyse synthetischer Daten
+- Erforschung innovativer Techniken zur Erzeugung synthetischer Daten aus realen Datensätzen
+- Durchführung vergleichender Qualitätsanalysen zwischen Originaldaten und synthetischen Derivaten
+- Untersuchung der praktischen Implikationen festgestellter Qualitätsunterschiede für verschiedene Anwendungsszenarien
+
+### Leistungsvergleich von Machine Learning-Modellen
+- Experimentelle Analyse der Leistungsfähigkeit von ML-Modellen beim Training mit realen vs. synthetischen Daten
+- Identifikation von Faktoren, die die Modellgenauigkeit bei Verwendung synthetischer Daten beeinflussen
+- Ableitung fundierter Empfehlungen für den optimalen Einsatz synthetischer Daten je nach Anwendungsfall
+
+## Zielsetzung
+
+Das Projekt strebt danach, einen wissenschaftlich fundierten und praxisrelevanten Beitrag zur effektiveren Nutzung synthetischer Daten in der Entwicklung von KI-Systemen zu leisten. Die gewonnenen Erkenntnisse sollen als Grundlage für die Optimierung von Datenqualitätsstrategien und die Verbesserung der Modellperformance dienen.
+
+
+
+-----
+
 <h2 align="center">HEIZOPTIM: Intelligentes Steuerungssystem für temperaturgesteuerte Heizungsanlagen in Wohngebäuden (in Progress)</h2>
 
 ## Projektziele
