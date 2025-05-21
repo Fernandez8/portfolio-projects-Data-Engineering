@@ -1,6 +1,6 @@
 ### ▶️ [Data Science & Analytics](./project)
 
-# ECOEFFICIENT: Prädiktives Emissionsmanagement- und Energieoptimierungssystem für Müllverbrennungsanlagen
+### ECOEFFICIENT: Prädiktives Emissionsmanagement- und Energieoptimierungssystem für Müllverbrennungsanlagen
 
 ## Projektziele
 
