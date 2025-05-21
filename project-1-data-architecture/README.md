@@ -69,6 +69,7 @@ Die Bereitstellung und Verwaltung der Azure-Ressourcen erfolgte automatisiert mi
 - Delta Lake
 - Parquet Format
 
+
 ---
 
 ##  Echtzeit-Datenverarbeitung mit Azure Stream Analytics
