@@ -1,13 +1,13 @@
-#  Skalierbare Open-Source-Plattform für Echtzeit-Datenverarbeitung und Visualisierung
+##  Skalierbare Open-Source-Plattform für Echtzeit-Datenverarbeitung und Visualisierung
 
-##  Projektübersicht
+###  Projektübersicht
 
 Entwicklung eines Systems zur Echtzeit-Datenaufnahme, -verarbeitung und -visualisierung unter Verwendung moderner Open-Source-Technologien.   
 Ziel des Projekts ist der Aufbau einer modularen und erweiterbaren Data-Engineering-Plattform, die sich flexibel in unterschiedliche Umgebungen integrieren lässt.   
 
 ---
 
-##  Verwendete Technologien
+###  Verwendete Technologien
 
 - **Apache Kafka** – Streaming und Messaging  
 - **Apache Airflow** – Orchestrierung von Datenpipelines  
@@ -19,7 +19,7 @@ Ziel des Projekts ist der Aufbau einer modularen und erweiterbaren Data-Engineer
 
 ---
 
-##  Architektur
+###  Architektur
 
 <p align="center">
   <img src="data-engineering-os-architektur_os.png" alt="Architekturdiagramm" width="700"/>
@@ -33,7 +33,7 @@ Jeder Bestandteil (Ingestion, Processing, Storage, Monitoring) ist entkoppelt, u
 
 ---
 
-## Projektziele
+### Projektziele
 
 - Standardisierte und automatisierte Datenverarbeitung  
 - Unterstützung von Batch- und Echtzeitverarbeitung  
