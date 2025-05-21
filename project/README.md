@@ -16,7 +16,8 @@
 
 ## Übersicht
 
-Dieses Forschungsprojekt untersucht die Wechselbeziehung zwischen synthetischen Daten und Datenqualität mit dem Ziel, den Einsatz künstlich erzeugter Datensätze in Machine Learning-Anwendungen zu optimieren. 
+Dieses Forschungsprojekt untersucht die Wechselbeziehung zwischen synthetischen Daten und Datenqualität mit dem Ziel, den Einsatz künstlich erzeugter Datensätze in Machine Learning-Anwendungen zu optimieren. Die Arbeit erfolgt unter fachkundiger Betreuung und baut auf fundierter Expertise im Bereich Datenqualität auf.
+
 ## Forschungsschwerpunkte
 
 ### Framework zur Datenqualitätsbewertung
@@ -36,8 +37,7 @@ Dieses Forschungsprojekt untersucht die Wechselbeziehung zwischen synthetischen 
 
 ## Zielsetzung
 
-Das Projekt strebt danach, einen wissenschaftlich fundierten und praxisrelevanten Beitrag zur effektiveren Nutzung synthetischer Daten in der Entwicklung von KI-Systemen zu leisten. Die gewonnenen Erkenntnisse sollen als Grundlage für die Optimierung von Datenqualitätsstrategien und die Verbesserung der Modellperformance dienen.
-
+Das Projekt strebt danach, einen wissenschaftlich fundierten und praxisrelevanten Beitrag zur effektiveren Nutzung synthetischer Daten in der Entwicklung von KI-Systemen zu leisten. 
 
 
 -----
