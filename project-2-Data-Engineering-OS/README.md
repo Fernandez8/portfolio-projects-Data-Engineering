@@ -1,1 +1,42 @@
-Entwicklung eines Systems zur Echtzeit-Daten aufnahme, -Verarbeitung und – Visualiserung unter Verwendung von Open-Source-Tools 
+#  Skalierbare Open-Source-Plattform für Echtzeit-Datenverarbeitung und Visualisierung
+
+##  Projektübersicht
+
+Entwicklung eines Systems zur Echtzeit-Datenaufnahme, -verarbeitung und -visualisierung unter Verwendung moderner Open-Source-Technologien.   
+Ziel des Projekts ist der Aufbau einer modularen und erweiterbaren Data-Engineering-Plattform, die sich flexibel in unterschiedliche Umgebungen integrieren lässt.   
+
+---
+
+##  Verwendete Technologien
+
+- **Apache Kafka** – Streaming und Messaging  
+- **Apache Airflow** – Orchestrierung von Datenpipelines  
+- **Apache Spark** – Verteilte Datenverarbeitung  
+- **Great Expectations** – Datenvalidierung und Qualitätssicherung  
+- **PostgreSQL** – relationale Datenspeicherung & Metadaten  
+- **Docker / Docker Compose** – Containerisierung  
+- **Grafana** – Datenvisualisierung  
+
+---
+
+##  Architektur
+
+<p align="center">
+  <img src="data-engineering-os-architektur_os.png" alt="Architekturdiagramm" width="700"/>
+  <br><br>
+  <img src="datenarchitekt_os.png" alt="Data Engineering OS Architektur" width="700"/>
+</p>
+
+
+Die Architektur basiert auf einem modularen Baukastenprinzip.  
+Jeder Bestandteil (Ingestion, Processing, Storage, Monitoring) ist entkoppelt, um Wiederverwendbarkeit und Austauschbarkeit zu ermöglichen.
+
+---
+
+## Projektziele
+
+- Standardisierte und automatisierte Datenverarbeitung  
+- Unterstützung von Batch- und Echtzeitverarbeitung  
+- Integrierte Datenqualitätssicherung  
+- Visualisierung aktueller Daten in Dashboards  
+- Einsatz ausschließlich quelloffener Komponenten
