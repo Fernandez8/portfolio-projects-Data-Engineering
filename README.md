@@ -1,4 +1,4 @@
-### ▶️ [Data Science & Analytics](./project)
+### ▶️ [Data Science & Analytics](./project/README.md)
 
 ---
 
