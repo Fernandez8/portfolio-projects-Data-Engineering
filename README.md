@@ -22,7 +22,6 @@
 </p>
 
 
-
 <p align="center">
 <figcaption>Streaming-Ingestion</figcaption>
   <img src="project-2-Data-Engineering-OS/Streaming-Ingestion.png" alt="Data Engineering OS Architektur" width="700"/>
