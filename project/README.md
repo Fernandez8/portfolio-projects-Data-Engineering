@@ -59,12 +59,12 @@ Das Projekt strebt danach, einen wissenschaftlich fundierten und praxisrelevante
 
 ### Schritt 2: KI-basierte Optimierung & Skalierung
 
-#### Datenaufbereitung:
+#### Datenaufbereitung
 Optimierung von Sensor-, Wetter- und Nutzungsdaten durch Feature Engineering und Datentransformation für hochqualitative KI-Modelle der adaptiven Heizungssteuerung.
 
-#### Modellierung:
+#### Modellierung
 Eigenverantwortliche Entwicklung fortgeschrittener Algorithmen für selbstlernende Heizkurven-Optimierung und prädiktive Nachtabsenkung mit kompletten ML-Pipelines und Evaluation.
 
-#### MLOps Pipeline & Workflow Automation:
+#### MLOps Pipeline & Workflow Automation
 Automatisierung des gesamten ML-Lifecycle, um eine skalierbare und reproduzierbare Infrastruktur zu schaffen
 
