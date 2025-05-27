@@ -29,7 +29,7 @@ Willkommen zu meinem Portfolio von Data Engineering Projekten mit modernen Daten
 - 40% Kostenreduzierung gegenüber On-Premise-Lösung erreicht
 
 [![Datenarchitekt Übersicht](./projects-Data-Analytics/project-1-Data-architecture/datenarchitekt.png)](./projects-Data-Analytics/project-1-Data-architecture/)
-<small><small>*Klicken Sie auf das Bild für weitere Details*</small></small>
+<sup>*Klicken Sie auf das Bild für weitere Details*</sup>
 ---
 
 
