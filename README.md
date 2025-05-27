@@ -39,7 +39,7 @@
 ### ▶️ [Infrastruktur](./projects-Data-Analytics/project-3-Infrastruktur/)
 **Infrastructure as Code mit AWS und Terraform**
 
-**Tech Stack:** Terraform, AWS, CI/CD, Netzwerk
+**Tech Stack:** Terraform, AWS, CI/CD, Netzwerk   
 **Herausforderung:** Cloud-Infrastruktur-Deployment automatisieren und standardisieren  
 
 **🎯 Wichtige Erfolge:**
