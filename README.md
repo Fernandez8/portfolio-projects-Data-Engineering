@@ -1,7 +1,7 @@
 # 💼 Data Engineering Portfolio
 
 <h3 align="center">
-  <i>Willkommen zu meinem Portfolio von Data Engineering und Data Science Projekten mit modernen Datenarchitekturen, Echtzeit-Streaming-Pipelines, statistischen & KI-Modellen und Cloud-Infrastruktur-Automatisierung.</i>
+  <i>Willkommen zu meinem Portfolio von Data Engineering und Data Science Projekten mit modernen, sicheren Datenarchitekturen, Echtzeit-Streaming-Pipelines, statistischen & KI-Modellen und Cloud-Infrastruktur-Automatisierung.</i>
 </h3>
 
 ---
