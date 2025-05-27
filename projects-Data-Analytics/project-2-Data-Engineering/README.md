@@ -59,6 +59,6 @@ Jeder Bestandteil (Ingestion, Processing, Storage, Monitoring) ist entkoppelt, u
 </p>
 
 <p align="center">
-<figcaption>Datenbank</figcaption>
-  <img src="Visualizierung_grafana.png" alt=" Visualizierung" width="700"/>
+<figcaption>Echzeit  Visualisierung</figcaption>
+  <img src="Visualizierung_grafana.png" alt=" Visualisierung" width="700"/>
 </p>
