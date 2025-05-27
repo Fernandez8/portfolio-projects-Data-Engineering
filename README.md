@@ -65,3 +65,49 @@ Willkommen zu meinem Portfolio von Data Engineering Projekten mit modernen Daten
 </div>
 
 ---
+
+
+
+### ♻️ [ÖKOEFFIZIENT - Prädiktives Emissionsmanagement](./projects-Data-Analytics/project-4-ÖKOEFFIZIENT/)
+**KI-gestütztes Emissionsmanagement für Müllverbrennungsanlagen**
+
+**Tech Stack:** Python, Machine Learning, Predictive Analytics, IoT Sensors, Environmental Monitoring  
+**Herausforderung:** Umweltauflagen einhalten und gleichzeitig Energieeffizienz maximieren  
+
+**🎯 Wichtige Erfolge:**
+- Prädiktive Schadstoffvorhersage mit 95%+ Genauigkeit entwickelt
+- Automatisierte Qualitätskontrolle und intelligentes Sortiersystem implementiert
+- EU-konforme Berichterstattung vollständig automatisiert
+- Energieeffizienz um 25% gesteigert bei 100% Regulatory Compliance
+
+---
+
+### 🔬 [Synthetische Daten für Machine Learning](./projects-Data-Analytics/project-5-synthetic-data/)
+**Forschungsprojekt zur Optimierung von ML-Modellen mit künstlichen Datensätzen**
+
+**Tech Stack:** Python, Synthetic Data Generation, Data Quality Framework, ML Model Evaluation  
+**Herausforderung:** Datenknappheit in ML-Projekten durch hochqualitative synthetische Daten lösen  
+
+**🎯 Wichtige Erfolge:**
+- Umfassendes Data Quality Assessment Framework entwickelt
+- Leistungsvergleich: Synthetische vs. reale Daten in ML-Modellen durchgeführt  
+- Best-Practice-Leitfaden für synthetische Datennutzung erstellt
+- Modellgenauigkeit bei 80% weniger realen Trainingsdaten erreicht
+
+---
+
+### 🏠 [HEIZOPTIM - Intelligente Heizungssteuerung](./projects-Data-Analytics/project-6-HEIZOPTIM/)
+**MLOps-Pipeline für adaptive Gebäudetemperaturoptimierung**
+
+**Tech Stack:** Python, IoT, Time Series Analysis, MLOps, Predictive Modeling, Statistical Optimization  
+**Herausforderung:** Energieverbrauch reduzieren ohne Komfortverlust in Wohngebäuden  
+
+**🎯 Wichtige Erfolge:**
+- Selbstlernende Heizkurven-Optimierung mit statistischen Methoden entwickelt
+- Intelligente Nachtabsenkung basierend auf Nutzerverhalten implementiert
+- Vollständige MLOps-Pipeline für skalierbare Deployment aufgebaut
+- Energieeinsparung von 30%+ durch prädiktive Steuerungsalgorithmen erreicht
+
+**Status:** 🚧 In Entwicklung (Phase 2: KI-Integration)
+
+---
