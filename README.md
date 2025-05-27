@@ -1,23 +1,10 @@
 # 💼 Data Engineering Portfolio
 
 <h3 align="center">
-  <i>Willkommen zu meinem Portfolio von Data Engineering Projekten mit modernen Datenarchitekturen, Echtzeit-Streaming-Pipelines und Cloud-Infrastruktur-Automatisierung.</i>
+  <i>Willkommen zu meinem Portfolio von Data Engineering und Data Science Projekten mit modernen Datenarchitekturen, Echtzeit-Streaming-Pipelines, statistischen & KI-Modellen und Cloud-Infrastruktur-Automatisierung.</i>
 </h3>
+
 ---
-
-
-## 🧑‍💻 Über mich
-
-**Statistiker | Data Scientist|  Data Engineer** mit umfassender Expertise in der gesamten Data-Value-Chain. Mit einem fundierten statistischen Hintergrund und fortgeschrittenen Kenntnissen in Data Science und MLOps entwickle ich skalierbare Datenpipelines, Cloud-native Architekturen und statistische Modelle. 
-
-Ich spezialisiere mich auf:
-
-- 📊 **Statistische Analyse** und prädiktive Modellierung
-- ⚡ **Echtzeit-Datenverarbeitung** und Streaming-Architekturen  
-- 🤖 **Data Science & Machine Learning** Pipeline-Entwicklung
-- 🔢 **Mathematische Optimierung** und algorithmische Problemlösung
-- 🏗️ **Infrastruktur-Automatisierung** für skalierbare Datenlösungen
-
 
 ### ▶️ [Moderne Datenarchitektur](./projects-Data-Analytics/project-1-Data-architecture/)
 **Unternehmensweite Hybrid-Cloud-Datenarchitektur**
