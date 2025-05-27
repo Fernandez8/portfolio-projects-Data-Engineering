@@ -17,13 +17,21 @@ Willkommen zu meinem Portfolio von Data Engineering Projekten mit modernen Daten
 **🎓 Background:** Statistik-Studium mit Spezialisierung auf Data Science  
 
 
-### 🏗️ Moderne Datenarchitektur
+### ▶️ [Moderne Datenarchitektur](./projects-Data-Analytics/project-1-Data-architecture/)
 **Unternehmensweite Hybrid-Cloud-Datenarchitektur**
 
 **Tech Stack:** Azure Data Factory, Synapse Analytics, Power BI  
+**Herausforderung:** Skalierbare Architektur für Multi-Terabyte-Datenverarbeitung entwerfen  
+
+**🎯 Wichtige Erfolge:**
+- Architektur für 10TB+ tägliche Datenverarbeitung entworfen
+- Echtzeit-Monitoring und Alarmsystem implementiert
+- 40% Kostenreduzierung gegenüber On-Premise-Lösung erreicht
 
 [![Datenarchitekt Übersicht](./projects-Data-Analytics/project-1-Data-architecture/datenarchitekt.png)](./projects-Data-Analytics/project-1-Data-architecture/)
 *Klicken Sie auf das Bild für weitere Details*
+---
+
 
 
 ### ▶️ [Data Engineering - Open Source Plattform](./projects-Data-Analytics/project-2-Data-Engineering-OS/)
