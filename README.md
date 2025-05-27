@@ -9,7 +9,7 @@
 ### ▶️ [Moderne Datenarchitektur](./projects-Data-Analytics/project-1-Data-architecture/)
 **Unternehmensweite Hybrid-Cloud-Datenarchitektur**
 
-**Tech Stack:** Azure Data Factory, Synapse Analytics, Power BI  
+**Tech Stack:** Azure Data Factory, Netzwerk, Synapse Analytics, Power BI  
 **Herausforderung:** Skalierbare Architektur für Multi-Terabyte-Datenverarbeitung entwerfen  
 
 **🎯 Wichtige Erfolge:**
@@ -25,7 +25,7 @@
 ### ▶️ [Data Engineering - Open Source Plattform](./projects-Data-Analytics/project-2-Data-Engineering-OS/)
 **Containerisierte Datenverarbeitung mit Open Source Tools**
 
-**Tech Stack:** Python, Apache Kafka, PostgreSQL, Docker, Grafana  
+**Tech Stack:** Python, Apache Kafka, PostgreSQL, Docker, Grafana, Kubernetes 
 **Herausforderung:** Skalierbare Open Source Alternative zu proprietären Lösungen  
 
 **🎯 Wichtige Erfolge:**
@@ -39,7 +39,7 @@
 ### ▶️ [Infrastruktur](./projects-Data-Analytics/project-3-Infrastruktur/)
 **Infrastructure as Code mit AWS und Terraform**
 
-**Tech Stack:** Terraform, AWS, CI/CD, Infrastructure as Code  
+**Tech Stack:** Terraform, AWS, CI/CD, Netzwerk
 **Herausforderung:** Cloud-Infrastruktur-Deployment automatisieren und standardisieren  
 
 **🎯 Wichtige Erfolge:**
@@ -59,7 +59,7 @@
 ### ♻️ [ÖKOEFFIZIENT - Prädiktives Emissionsmanagement](./projects-Data-Analytics/project-4-ÖKOEFFIZIENT/)
 **KI-gestütztes Emissionsmanagement für Müllverbrennungsanlagen**
 
-**Tech Stack:** Python, Machine Learning, Predictive Analytics, IoT Sensors, Environmental Monitoring  
+**Tech Stack:** Python, Machine Learning, Predictive Analytics, IoT Sensors, MLOps, Environmental Monitoring  
 **Herausforderung:** Umweltauflagen einhalten und gleichzeitig Energieeffizienz maximieren  
 
 **🎯 Wichtige Erfolge:**
