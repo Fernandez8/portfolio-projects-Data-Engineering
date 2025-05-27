@@ -26,9 +26,6 @@ Willkommen zu meinem Portfolio von Data Engineering Projekten mit modernen Daten
 *Klicken Sie auf das Bild für weitere Details*
 
 
-### ▶️ [Projekt 2 - Data Engineering (Open Source Plattform)](./projects-Data-Analytics/project-2-Data-Engineering-OS/README.md)
-
-
 ### ▶️ [Data Engineering - Open Source Plattform](./projects-Data-Analytics/project-2-Data-Engineering-OS/)
 **Containerisierte Datenverarbeitung mit Open Source Tools**
 
