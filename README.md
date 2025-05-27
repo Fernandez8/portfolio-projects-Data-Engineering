@@ -1,6 +1,8 @@
 # 💼 Data Engineering Portfolio
 
-Willkommen zu meinem Portfolio von Data Engineering Projekten mit modernen Datenarchitekturen, Echtzeit-Streaming-Pipelines und Cloud-Infrastruktur-Automatisierung.
+<h3 align="center">
+  <i>Willkommen zu meinem Portfolio von Data Engineering Projekten mit modernen Datenarchitekturen, Echtzeit-Streaming-Pipelines und Cloud-Infrastruktur-Automatisierung.</i>
+</h3>
 ---
 
 
