@@ -40,7 +40,7 @@ Willkommen zu meinem Portfolio von Data Engineering Projekten mit modernen Daten
 [![Open Source Platform](./projects-Data-Analytics/project-2-Data-Engineering/datenarchitekt_os.png)](./projects-Data-Analytics/project-2-Data-Engineering/)
 
 
-### ☁️ [Projekt 3 - Infrastruktur](./projects-Data-Analytics/project-3-Infrastruktur/)
+### ☁️ [Infrastruktur](./projects-Data-Analytics/project-3-Infrastruktur/)
 **Infrastructure as Code mit AWS und Terraform**
 
 **Tech Stack:** Terraform, AWS, CI/CD, Infrastructure as Code  
