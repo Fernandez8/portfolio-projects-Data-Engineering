@@ -96,6 +96,32 @@ Willkommen zu meinem Portfolio von Data Engineering Projekten mit modernen Daten
 
 ---
 
+### 🚗 [Actuarial Risk Modeling - Kfz-Versicherung](./projects-Data-Analytics/project-7-insurance-modeling/)
+**Prädiktive Schadenhöhenmodellierung für faire Versicherungsbeiträge**
+
+**Tech Stack:** Python, Statistical Modeling, Actuarial Science, Feature Engineering, Model Validation, MLOps  
+**Herausforderung:** Faire Versicherungsbeiträge basierend auf Kundenrisikomerkmalen berechnen  
+
+**🎯 Wichtige Erfolge:**
+- Explorative Datenanalyse von Kfz-Haftpflicht-Versicherungsdaten durchgeführt
+- Feature Engineering für Risikomerkmale und Schadeninformationen optimiert
+- Vergleichende Modellanalyse mit statistischen Metriken implementiert
+- Prädiktives Modell für erwartete Schadenhöhe pro Kunde/Jahr entwickelt
+- **Model Deployment Pipeline** für Produktionsumgebung aufgebaut
+- **Kontinuierliches Monitoring** für Model Drift und Performance-Überwachung eingerichtet
+- Modellinterpretation für Transparenz in Beitragskalkulation sichergestellt
+
+**Methodischer Ansatz:**
+- **Explorative Datenanalyse:** Identifikation statistischer Zusammenhänge und Datenqualitätsprobleme
+- **Feature Engineering:** Optimierung der Risikomerkmale für Modellierung
+- **Modellvergleich:** Systematische Evaluation verschiedener Ansätze mit Validierungsmetriken
+- **Model Building:** Training des finalen Modells mit Fokus auf faire Beitragskalkulation
+- **Deployment & Monitoring:** Produktive Bereitstellung mit automatisierter Überwachung
+
+**Status:** ✅ Abgeschlossen
+
+---
+
 ### 🏠 [HEIZOPTIM - Intelligente Heizungssteuerung](./projects-Data-Analytics/project-6-HEIZOPTIM/)
 **MLOps-Pipeline für adaptive Gebäudetemperaturoptimierung**
 
