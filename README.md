@@ -35,7 +35,6 @@ Ich spezialisiere mich auf:
 ---
 
 
-
 ### ▶️ [Data Engineering - Open Source Plattform](./projects-Data-Analytics/project-2-Data-Engineering-OS/)
 **Containerisierte Datenverarbeitung mit Open Source Tools**
 
@@ -82,6 +81,8 @@ Ich spezialisiere mich auf:
 - EU-konforme Berichterstattung vollständig automatisiert
 - Energieeffizienz um 25% gesteigert bei 100% Regulatory Compliance
 
+**Status:** ✅ Abgeschlossen
+
 ---
 
 ### 🔬 [Synthetische Daten für Machine Learning](./projects-Data-Analytics/project-5-synthetic-data/)
@@ -95,6 +96,8 @@ Ich spezialisiere mich auf:
 - Leistungsvergleich: Synthetische vs. reale Daten in ML-Modellen durchgeführt  
 - Best-Practice-Leitfaden für synthetische Datennutzung erstellt
 - Modellgenauigkeit bei 80% weniger realen Trainingsdaten erreicht
+
+**Status:** ✅ Abgeschlossen
 
 ---
 
