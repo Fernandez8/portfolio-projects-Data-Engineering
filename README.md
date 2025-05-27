@@ -68,7 +68,7 @@ Ich spezialisiere mich auf:
 
 ---
 
-
+## 🤖 Data Science & Machine Learning Projekte
 
 ### ♻️ [ÖKOEFFIZIENT - Prädiktives Emissionsmanagement](./projects-Data-Analytics/project-4-ÖKOEFFIZIENT/)
 **KI-gestütztes Emissionsmanagement für Müllverbrennungsanlagen**
