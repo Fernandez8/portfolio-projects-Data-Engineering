@@ -25,7 +25,7 @@
 ### ▶️ [Data Engineering - Open Source Plattform](./projects-Data-Analytics/project-2-Data-Engineering-OS/)
 **Containerisierte Datenverarbeitung mit Open Source Tools**
 
-**Tech Stack:** Python, Apache Kafka, PostgreSQL, Docker, Grafana, Kubernetes 
+**Tech Stack:** Python, Apache Kafka, PostgreSQL, Docker, Grafana, Kubernetes    
 **Herausforderung:** Skalierbare Open Source Alternative zu proprietären Lösungen  
 
 **🎯 Wichtige Erfolge:**
