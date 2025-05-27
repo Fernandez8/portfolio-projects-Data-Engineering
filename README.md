@@ -40,4 +40,4 @@ Willkommen zu meinem Portfolio von Data Engineering Projekten mit modernen Daten
 - 100% Open Source Stack
 - Kostenreduzierung um 60% gegenüber kommerziellen Lösungen
 
-[![Open Source Platform](./projects-Data-Analytics/project-2-Data-Engineering-OS/architecture.png)](./projects-Data-Analytics/project-2-Data-Engineering-OS/)
+[![Open Source Platform](./projects-Data-Analytics/project-2-Data-Engineering/datenarchitekt_os.png)](./projects-Data-Analytics/project-2-Data-Engineering/)
