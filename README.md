@@ -24,3 +24,20 @@ Willkommen zu meinem Portfolio von Data Engineering Projekten mit modernen Daten
 
 [![Datenarchitekt Übersicht](./projects-Data-Analytics/project-1-Data-architecture/datenarchitekt.png)](./projects-Data-Analytics/project-1-Data-architecture/)
 *Klicken Sie auf das Bild für weitere Details*
+
+
+### ▶️ [Projekt 2 - Data Engineering (Open Source Plattform)](./projects-Data-Analytics/project-2-Data-Engineering-OS/README.md)
+
+
+### ▶️ [Data Engineering - Open Source Plattform](./projects-Data-Analytics/project-2-Data-Engineering-OS/)
+**Containerisierte Datenverarbeitung mit Open Source Tools**
+
+**Tech Stack:** Python, Apache Kafka, PostgreSQL, Docker, Grafana  
+**Herausforderung:** Skalierbare Open Source Alternative zu proprietären Lösungen  
+
+**🎯 Wichtige Erfolge:**
+- Vollständig containerisierte Architektur
+- 100% Open Source Stack
+- Kostenreduzierung um 60% gegenüber kommerziellen Lösungen
+
+[![Open Source Platform](./projects-Data-Analytics/project-2-Data-Engineering-OS/architecture.png)](./projects-Data-Analytics/project-2-Data-Engineering-OS/)
