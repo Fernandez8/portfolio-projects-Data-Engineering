@@ -43,17 +43,22 @@ Jeder Bestandteil (Ingestion, Processing, Storage, Monitoring) ist entkoppelt, u
 
 <p align="center">
 <figcaption>Streaming-Ingestion</figcaption>
-  <img src="Streaming-Ingestion.png" alt="Data Engineering OS Architektur" width="700"/>
+  <img src="Streaming-Ingestion.png" alt="Ingestion" width="700"/>
 </p>
 
 
 <p align="center">
 <figcaption> Data Streaming </figcaption>
-  <img src="Streaming.png" alt="Data Engineering OS Architektur" width="700"/>
+  <img src="Streaming.png" alt="Streaming" width="700"/>
 </p>
 
 
 <p align="center">
 <figcaption>Datenbank</figcaption>
-  <img src="Datenbank.png" alt="Data Engineering OS Architektur" width="700"/>
+  <img src="Datenbank.png" alt=" Datenbank" width="700"/>
+</p>
+
+<p align="center">
+<figcaption>Datenbank</figcaption>
+  <img src="Visualizierung_grafana.png" alt=" Visualizierung" width="700"/>
 </p>
