@@ -38,3 +38,22 @@ Willkommen zu meinem Portfolio von Data Engineering Projekten mit modernen Daten
 - Kostenreduzierung um 60% gegenüber kommerziellen Lösungen
 
 [![Open Source Platform](./projects-Data-Analytics/project-2-Data-Engineering/datenarchitekt_os.png)](./projects-Data-Analytics/project-2-Data-Engineering/)
+
+
+### ☁️ [Projekt 3 - Infrastruktur](./projects-Data-Analytics/project-3-Infrastruktur/)
+**Infrastructure as Code mit AWS und Terraform**
+
+**Tech Stack:** Terraform, AWS, CI/CD, Infrastructure as Code  
+**Herausforderung:** Cloud-Infrastruktur-Deployment automatisieren und standardisieren  
+
+**🎯 Wichtige Erfolge:**
+- Wiederverwendbare Terraform-Module für mehrere Umgebungen
+- Automatisierte Deployment-Pipeline (dev/staging/prod)
+- Infrastruktur-Deployment-Zeit um 75% reduziert
+
+<div align="center">
+  <img src="./projects-Data-Analytics/project-3-Infrastruktur/awsarchitektur.png" alt="AWS-Architekturdiagramm mit einer Cloud-Umgebung" width="700"/>
+  <p><em>AWS-Architekturdiagramm mit einer Cloud-Umgebung</em></p>
+</div>
+
+---
