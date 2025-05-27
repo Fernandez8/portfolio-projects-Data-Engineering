@@ -8,7 +8,7 @@
 
 ## 🧑‍💻 Über mich
 
-**Data Engineer | Data Scientist | Statistiker** mit umfassender Expertise in der gesamten Data-Value-Chain. Mit einem fundierten statistischen Hintergrund und fortgeschrittenen Kenntnissen in Data Science und MLOps entwickle ich skalierbare Datenpipelines, Cloud-native Architekturen und statistische Modelle. 
+**Statistiker | Data Scientist|  Data Engineer** mit umfassender Expertise in der gesamten Data-Value-Chain. Mit einem fundierten statistischen Hintergrund und fortgeschrittenen Kenntnissen in Data Science und MLOps entwickle ich skalierbare Datenpipelines, Cloud-native Architekturen und statistische Modelle. 
 
 Ich spezialisiere mich auf:
 
