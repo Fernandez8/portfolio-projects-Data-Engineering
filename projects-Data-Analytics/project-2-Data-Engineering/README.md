@@ -38,3 +38,22 @@ Jeder Bestandteil (Ingestion, Processing, Storage, Monitoring) ist entkoppelt, u
 - Integrierte Datenqualitätssicherung  
 - Visualisierung aktueller Daten in Dashboards  
 - Einsatz ausschließlich quelloffener Komponenten
+
+
+
+<p align="center">
+<figcaption>Streaming-Ingestion</figcaption>
+  <img src="Streaming-Ingestion.png" alt="Data Engineering OS Architektur" width="700"/>
+</p>
+
+
+<p align="center">
+<figcaption> Data Streaming </figcaption>
+  <img src="Streaming.png" alt="Data Engineering OS Architektur" width="700"/>
+</p>
+
+
+<p align="center">
+<figcaption>Datenbank</figcaption>
+  <img src="Datenbank.png" alt="Data Engineering OS Architektur" width="700"/>
+</p>
