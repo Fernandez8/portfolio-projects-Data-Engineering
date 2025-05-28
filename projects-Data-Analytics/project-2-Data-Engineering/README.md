@@ -48,7 +48,7 @@ Jeder Bestandteil (Ingestion, Processing, Storage, Monitoring) ist entkoppelt, u
 
 
 <p align="center">
-<figcaption> Data Streaming </figcaption>
+<figcaption> Schrift </figcaption>
   <img src="Streaming.png" alt="Streaming" width="700"/>
 </p>
 
