@@ -10,6 +10,13 @@
 - EU-konforme Berichterstattung vollständig automatisiert
 - Energieeffizienz um 25% gesteigert bei 100% Regulatory Compliance
 
+#### 🔁 Waste-to-Energy Process Illustration
+
+<figure style="text-align: center;">
+ <figcaption style="display: block; margin-bottom: 20px;">Terraform </figcaption>
+ <img src="wastetoenergy.png" alt="Waste-to-Energy" width="700"/>
+</figure>
+
 ---
 **Forschungsprojekt zur Optimierung von ML-Modellen mit künstlichen Datensätzen**
 
@@ -21,6 +28,7 @@
 - Leistungsvergleich: Synthetische vs. reale Daten in ML-Modellen durchgeführt  
 - Best-Practice-Leitfaden für synthetische Datennutzung erstellt
 - Modellgenauigkeit bei 80% weniger realen Trainingsdaten erreicht
+
 
 ---
 
