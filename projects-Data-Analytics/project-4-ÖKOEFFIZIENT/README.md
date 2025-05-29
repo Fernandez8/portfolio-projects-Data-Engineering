@@ -23,6 +23,8 @@
 - Modellgenauigkeit bei 80% weniger realen Trainingsdaten erreicht
 
 ---
+
+### 🚗 [Actuarial Risk Modeling - Kfz-Versicherung](./projects-Data-Analytics/project-7-insurance-modeling/)
 **Prädiktive Schadenhöhenmodellierung für faire Versicherungsbeiträge**
 
 **Tech Stack:** Python, Statistical Modeling, Actuarial Science, Feature Engineering, MLops Pipeline, Model Validation
