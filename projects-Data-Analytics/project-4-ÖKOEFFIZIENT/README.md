@@ -26,6 +26,7 @@
 
 
 ---
+🔬 [Synthetische Daten für Machine Learning](./projects-Data-Analytics/project-4-ÖKOEFFIZIENT/README.md)
 **Forschungsprojekt zur Optimierung von ML-Modellen mit künstlichen Datensätzen**
 
 **Tech Stack:** Python, Synthetic Data Generation, Data Quality Framework, ML Model Evaluation  
