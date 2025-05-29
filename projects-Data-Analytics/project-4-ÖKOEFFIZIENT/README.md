@@ -17,6 +17,11 @@
     Illustration: Waste-to-Energy Process
   </figcaption>
   <img src="wastetoenergy.png" alt="Waste-to-Energy" width="700"/>
+  <figcaption style="font-style: italic; margin-top: 10px;">
+    Source: <a href="https://prepp.in/news/e-492-waste-to-energy-wte-environment-notes" target="_blank">
+      Waste-to-Energy (prepp.in)
+    </a>
+  </figcaption>
 </figure>
 
 ---
