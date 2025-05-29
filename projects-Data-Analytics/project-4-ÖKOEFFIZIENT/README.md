@@ -18,11 +18,12 @@
   </figcaption>
   <img src="wastetoenergy.png" alt="Waste-to-Energy" width="700"/>
   <figcaption style="font-style: italic; margin-top: 10px;">
-    Source: <a href="https://prepp.in/news/e-492-waste-to-energy-wte-environment-notes" target="_blank">
-      Waste-to-Energy (prepp.in)
+    Source: <a href="https://www.researchgate.net/figure/Flow-Chart-of-Waste-to-Energy-Generation-Process_fig3_314078184" target="_blank">
+      ResearchGate – Flow Chart of Waste-to-Energy Generation Process
     </a>
   </figcaption>
 </figure>
+
 
 ---
 **Forschungsprojekt zur Optimierung von ML-Modellen mit künstlichen Datensätzen**
