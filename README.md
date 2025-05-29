@@ -19,11 +19,11 @@
 
 ## 🤖 Data Science & Machine Learning Projekte
 
-### ♻️ [ÖKOEFFIZIENT - Prädiktives Emissionsmanagement](./projects-Data-Analytics/project-4-Data-analytics/README.md)
 
-### 🔬 [Synthetische Daten für Machine Learning](./projects-Data-Analytics/project-4-Data-analytics/README.md)
+### ♻️ [ÖKOEFFIZIENT - Prädiktives Emissionsmanagement](./projects-Data-Analytics/project-4-ÖKOEFFIZIENT/README.md)
 
-### 🚗 [Actuarial Risk Modeling - Kfz-Versicherung](./projects-Data-Analytics/project-4-Data-analytics/README.md)
+### 🔬 [Synthetische Daten für Machine Learning](./projects-Data-Analytics/project-5-synthetic-data/README.md)
 
-### 🏠 [HEIZOPTIM - Intelligente Heizungssteuerung](./projects-Data-Analytics/project-4-Data-analytics/README.md)
+### 🚗 [Actuarial Risk Modeling - Kfz-Versicherung](./projects-Data-Analytics/project-7-insurance-modeling/README.md)
 
+### 🏠 [HEIZOPTIM - Intelligente Heizungssteuerung](./projects-Data-Analytics/project-6-HEIZOPTIM/README.md)
