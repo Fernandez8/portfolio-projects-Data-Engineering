@@ -9,9 +9,7 @@
 ### ▶️ [Moderne Datenarchitektur](./projects-Data-Analytics/project-1-Data-architecture/)
 
 
-
 ### ▶️ [Data Engineering - Open Source Plattform](./projects-Data-Analytics/project-2-Data-Engineering-OS/)
-
 
 
 ### ▶️ [Infrastruktur](./projects-Data-Analytics/project-3-Infrastruktur/)
@@ -22,8 +20,8 @@
 
 ### ♻️ [ÖKOEFFIZIENT - Prädiktives Emissionsmanagement](./projects-Data-Analytics/project-4-ÖKOEFFIZIENT/README.md)
 
-### 🔬 [Synthetische Daten für Machine Learning](./projects-Data-Analytics/project-5-synthetic-data/README.md)
+### 🔬 [Synthetische Daten für Machine Learning](./projects-Data-Analytics/project-4-ÖKOEFFIZIENT/README.md)
 
-### 🚗 [Actuarial Risk Modeling - Kfz-Versicherung](./projects-Data-Analytics/project-7-insurance-modeling/README.md)
+### 🚗 [Actuarial Risk Modeling - Kfz-Versicherung](./projects-Data-Analytics/project-4-ÖKOEFFIZIENT/README.md)
 
-### 🏠 [HEIZOPTIM - Intelligente Heizungssteuerung](./projects-Data-Analytics/project-6-HEIZOPTIM/README.md)
+### 🏠 [HEIZOPTIM - Intelligente Heizungssteuerung](./projects-Data-Analytics/project-4-ÖKOEFFIZIENT/README.md)
