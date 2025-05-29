@@ -41,7 +41,7 @@
 
 ---
 
-### 🚗 [Actuarial Risk Modeling - Kfz-Versicherung](./projects-Data-Analytics/project-7-insurance-modeling/)
+### 🚗 [Actuarial Risk Modeling - Kfz-Versicherung](./projects-Data-Analytics/project-4-ÖKOEFFIZIENT/README.md/)
 **Prädiktive Schadenhöhenmodellierung für faire Versicherungsbeiträge**
 
 **Tech Stack:** Python, Statistical Modeling, Actuarial Science, Feature Engineering, MLops Pipeline, Model Validation
@@ -66,7 +66,7 @@
 
 ---
 
-### 🏠 [HEIZOPTIM - Intelligente Heizungssteuerung](./projects-Data-Analytics/project-6-HEIZOPTIM/)
+### 🏠 [HEIZOPTIM - Intelligente Heizungssteuerung](./projects-Data-Analytics/project-4-ÖKOEFFIZIENT/README.md/)
 **MLOps-Pipeline für adaptive Gebäudetemperaturoptimierung**
 
 **Tech Stack:** Python, IoT, Time Series Analysis, MLOps, Predictive Modeling, Statistical Optimization  
