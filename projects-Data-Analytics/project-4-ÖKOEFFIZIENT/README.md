@@ -13,8 +13,10 @@
 #### 🔁 Waste-to-Energy Process Illustration
 
 <figure style="text-align: center;">
- <figcaption style="display: block; margin-bottom: 20px;">Terraform </figcaption>
- <img src="wastetoenergy.png" alt="Waste-to-Energy" width="700"/>
+  <figcaption style="display: block; margin-bottom: 20px;">
+    Illustration: Waste-to-Energy Process
+  </figcaption>
+  <img src="wastetoenergy.png" alt="Waste-to-Energy" width="700"/>
 </figure>
 
 ---
