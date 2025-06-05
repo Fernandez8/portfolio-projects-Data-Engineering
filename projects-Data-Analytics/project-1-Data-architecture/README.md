@@ -1,15 +1,5 @@
 #  Projekt - Konzeption einer modernen Datenplattform
 
-### Automatisierte Infrastruktur-Bereitstellung
-
-
-<p align="center">
-  <img src="terraformpng.png" alt="Infrastruktur-Bereitstellung->2" width="700"/>
-</p>
-
-
-
-
 ## Inhaltsverzeichnis
 
 - [ Architekturübersicht](#architekturübersicht)
@@ -49,6 +39,7 @@ Die Bereitstellung und Verwaltung der Azure-Ressourcen erfolgte automatisiert mi
 - Versionskontrolle und Zusammenarbeit 
 
 ---
+
 ## Architektur
 
 <p align="center">
