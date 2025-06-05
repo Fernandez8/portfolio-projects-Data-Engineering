@@ -1,4 +1,4 @@
-### ♻️ [ÖKOEFFIZIENT - Prädiktives Emissionsmanagement](./projects-Data-Analytics/project-4-ÖKOEFFIZIENT/)
+## ♻️ ÖKOEFFIZIENT - Prädiktives Emissionsmanagement
 **KI-gestütztes Emissionsmanagement für Müllverbrennungsanlagen**
 
 **Tech Stack:** Python, Machine Learning, Predictive Analytics, IoT Sensors, MLOps Pipeline, Environmental Monitoring  
@@ -26,7 +26,7 @@
 
 
 ---
-### 🔬 [Synthetische Daten für Machine Learning](./projects-Data-Analytics/project-4-ÖKOEFFIZIENT/README.md)
+## 🔬 Synthetische Daten für Machine Learning
 **Forschungsprojekt zur Optimierung von ML-Modellen mit künstlichen Datensätzen**
 
 **Tech Stack:** Python, Synthetic Data Generation, Data Quality Framework, ML Model Evaluation  
@@ -41,7 +41,7 @@
 
 ---
 
-### 🚗 [Actuarial Risk Modeling - Kfz-Versicherung](./projects-Data-Analytics/project-4-ÖKOEFFIZIENT/README.md/)
+## 🚗 Actuarial Risk Modeling - Kfz-Versicherung
 **Prädiktive Schadenhöhenmodellierung für faire Versicherungsbeiträge**
 
 **Tech Stack:** Python, Statistical Modeling, Actuarial Science, Feature Engineering, MLops Pipeline, Model Validation
@@ -66,7 +66,7 @@
 
 ---
 
-### 🏠 [HEIZOPTIM - Intelligente Heizungssteuerung](./projects-Data-Analytics/project-4-ÖKOEFFIZIENT/README.md/)
+## 🏠 HEIZOPTIM - Intelligente Heizungssteuerung
 **MLOps-Pipeline für adaptive Gebäudetemperaturoptimierung**
 
 **Tech Stack:** Python, IoT, Time Series Analysis, MLOps, Predictive Modeling, Statistical Optimization  
