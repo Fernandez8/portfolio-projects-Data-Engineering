@@ -1,4 +1,4 @@
-<h1 align="center">📊 AI-Agent für automatische Dashboard-Generierung aus PostgreSQL-Datenbank (Work in Progress)</h1>
+<h1 align="center">📊 AI-Agent für automatische Dashboard-Generierung aus PostgreSQL-Datenbank </h1>
 
 ## 📋 Beschreibung
 Entwicklung eines intelligenten AI-Agenten, der SQL-Datenbanken automatisch in interaktive Dashboards umwandelt - ohne manuelle Datenbankabfragen oder SQL-Kenntnisse.   
