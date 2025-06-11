@@ -28,4 +28,4 @@
 
 ## 🧠 LLM & Generative AI 
 
-###  📊 [AI-Agent für automatische Dashboard-Generierung aus PostgreSQL-Datenbank](./projects-Data-Analytics/project-4-ÖKOEFFIZIENT/README.md)
+###  📊 [AI-Agent für automatische Dashboard-Generierung aus PostgreSQL-Datenbank](./projects-Data-Analytics/LLM&AG&GEN/README.md)
