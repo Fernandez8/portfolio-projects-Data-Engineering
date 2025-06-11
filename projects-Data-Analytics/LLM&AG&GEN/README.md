@@ -2,7 +2,7 @@
 
 ## 📋 Beschreibung
 Entwicklung eines intelligenten AI-Agenten, der SQL-Datenbanken automatisch in interaktive Dashboards umwandelt - ohne manuelle Datenbankabfragen oder SQL-Kenntnisse.   
-Das Ziel ist die Demokratisierung derr Datenanalyse
+Das Ziel ist es, PostgreSQL sprechen zu lassen - ohne Programmiersprache zu lernen
 
 ## 🚧 Herausforderungen & Lösungsansatz
 **Challenge:** Bei komplexen Datenbanken mit mehr als 1000 Tabellen muss der Agent intelligent die relevanten Tabellenn identifizieren.
