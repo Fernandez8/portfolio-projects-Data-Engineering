@@ -12,3 +12,6 @@ Das Ziel ist es, PostgreSQL sprechen zu lassen - ohne Programmiersprache zu lern
 - Automatische Extraktion von Datensamples aus allen Tabellen
 - Beschreibung und Indizierung in einer Vektordatenbank inklusive Spaltenbeschreibungen
 - Intelligente Tabellenauswahl vor Query-Ausführung durch Vektorsuche
+
+**Nachteil dieses Agenten**: 
+Erfordert zu viele Ressourcen, um die Datensicherheit zu gewährleisten und die Abfragen zu optimieren.
