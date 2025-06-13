@@ -14,4 +14,4 @@ Das Ziel ist es, PostgreSQL sprechen zu lassen - ohne Programmiersprache zu lern
 - Intelligente Tabellenauswahl vor Query-Ausführung durch Vektorsuche
 
 **Nachteil dieses Agenten**: 
-Erfordert zu viele Ressourcen, um die Datensicherheit zu gewährleisten und die Abfragen zu optimieren.
+Erfordert zu viele Ressourcen, um die Datensicherheit zu gewährleisten und die Abfragen zu optimieren. Darüber hinaus kann der Agent nicht in Produktion eingesetzt werden, da geeignete Methoden zur Validierung der Ergebnisse fehlen und somit die Qualität und Zuverlässigkeit der Resultate nicht sichergestellt werden kann.
