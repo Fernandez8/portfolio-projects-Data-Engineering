@@ -7,7 +7,7 @@ Das Ziel ist es, PostgreSQL sprechen zu lassen - ohne Programmiersprache zu lern
 ## 🚧 Herausforderungen & Lösungsansatz
 **Challenge:** Bei komplexen Datenbanken mit mehr als 1000 Tabellen muss der Agent intelligent die relevanten Tabellenn identifizieren.
 
-**Entwickelte Lösung:** 
+**Entwickelte Lösung** 
 - Implementierung eines vorgelagerten Agenten zur Datenbank-Exploration
 - Automatische Extraktion von Datensamples aus allen Tabellen
 - Beschreibung und Indizierung in einer Vektordatenbank inklusive Spaltenbeschreibungen
