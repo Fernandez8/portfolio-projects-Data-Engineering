@@ -1,13 +1,8 @@
 # 💼 Data Analytics Portfolio
 
-<div align="center">
-  <h3>
-    Willkommen zu meinem Portfolio von Data Engineering und Data Science Projekten<br/>
-    mit modernen, sicheren Datenarchitekturen und Echtzeit-Streaming-Pipelines,<br/>
-    statistischen & KI-Modellen sowie Cloud-Infrastruktur-Automatisierung nach Best Practices.
-  </h3>
-</div>
-
+<h3 align="center">
+  <i>Willkommen zu meinem Portfolio von Data Engineering und Data Science Projekten mit modernen, sicheren Datenarchitekturen, Echtzeit-Streaming-Pipelines, statistischen & KI-Modellen und Cloud-Infrastruktur-Automatisierung nach Best Practices.</i>
+</h3>
 
 ---
 ##  🗂️ Datenarchitektur & Cloud-Migration
@@ -34,5 +29,4 @@
 ### 🏠 [HEIZOPTIM - Intelligente Heizungssteuerung](./projects-Data-Analytics/project-4-ÖKOEFFIZIENT/README.md)
 ---
 ## 🧠 LLM & Generative AI
-
 ###  📊 [AI-Agent für automatische Dashboard-Generierung aus PostgreSQL-Datenbank](./projects-Data-Analytics/LLM&AG&GEN/README.md)
