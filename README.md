@@ -2,7 +2,9 @@
 
 <div align="center">
   <h3>
-    Willkommen zu meinem Portfolio von Data Engineering und Data Science Projekten mit modernen, sicheren Datenarchitekturen, Echtzeit-Streaming-Pipelines, statistischen & KI-, <br/> Modellen und Cloud-Infrastruktur-Automatisierung nach Best Practices.
+    Willkommen zu meinem Portfolio von Data Engineering und Data Science Projekten<br/>
+    mit modernen, sicheren Datenarchitekturen, Echtzeit-Streaming-Pipelines,<br/>
+    statistischen & KI-Modellen und Cloud-Infrastruktur-Automatisierung nach Best Practices.
   </h3>
 </div>
 
