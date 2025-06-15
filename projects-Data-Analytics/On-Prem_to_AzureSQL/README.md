@@ -2,7 +2,7 @@
 
 Basierend auf einer sorgfältigen Analyse der Bandbreite sowie einem umfassenden Audit der zu migrierenden Daten wurden die folgenden Migrationsansätze ausgewählt und umgesetzt.
 
-## On-Premise zu Azure SQL DB Migration mittels Azure Data Factory
+## On-Premise zu Azure SQL DB Migration über  Azure Data Factory
 
 ### Zielsetzung
 Migration von Daten aus On-Premise-MySQL-Datenbank in eine Azure SQL-Datenbank mithilfe von Azure Data Factory (ADF).
@@ -55,7 +55,7 @@ Schritt 5: Überprüfung der Daten in ASQL
 - Überwachung der Ausführung und Verifizierung der erfolgreichen Datenmigration
 ---
 
-## On-Prem zu Azure SQL mit inkrementeller Datenladung (ADF)
+## On-Prem → Azure SQL Migration mit Incremental Load (ADF)
 
 ---
 <p align="center">
