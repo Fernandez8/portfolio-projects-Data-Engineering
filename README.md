@@ -13,6 +13,7 @@
 ### ▶️ [Infrastruktur](./projects-Data-Analytics/project-3-Infrastruktur/)
 
 ### ▶️ [IaC](./projects-Data-Analytics/terraform/)
+### ▶️ [Migration von On-Prem zu Azure SQL DB](./projects-Data-Analytics/On-Prem_to_AzureSQL/)
 
 
 ## 🤖 Data Science & Machine Learning Projekte
@@ -25,7 +26,3 @@
 ### 🚗 [Actuarial Risk Modeling - Kfz-Versicherung](./projects-Data-Analytics/project-4-ÖKOEFFIZIENT/README.md)
 
 ### 🏠 [HEIZOPTIM - Intelligente Heizungssteuerung](./projects-Data-Analytics/project-4-ÖKOEFFIZIENT/README.md)
-
-## 🧠 LLM & Generative AI 
-
-###  📊 [AI-Agent für automatische Dashboard-Generierung aus PostgreSQL-Datenbank](./projects-Data-Analytics/LLM&AG&GEN/README.md)
