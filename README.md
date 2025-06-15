@@ -5,7 +5,7 @@
 </h3>
 
 ---
-## ## 🗂️ Datenarchitektur & Cloud-Migration
+##  🗂️ Datenarchitektur & Cloud-Migration
 
 ### ▶️ [Moderne Datenarchitektur](./projects-Data-Analytics/project-1-Data-architecture/)
 
