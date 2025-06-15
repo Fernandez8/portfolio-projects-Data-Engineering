@@ -5,6 +5,7 @@
 </h3>
 
 ---
+## ## 🗂️ Datenarchitektur & Cloud-Migration
 
 ### ▶️ [Moderne Datenarchitektur](./projects-Data-Analytics/project-1-Data-architecture/)
 
@@ -12,12 +13,13 @@
 
 ### ▶️ [Infrastruktur](./projects-Data-Analytics/project-3-Infrastruktur/)
 
-### ▶️ [IaC](./projects-Data-Analytics/terraform/)
+### ▶️ [IaC](./projects-Data-Analytics/terraform/)   
+
 ### ▶️ [Migration von On-Prem zu Azure SQL DB](./projects-Data-Analytics/On-Prem_to_AzureSQL/)
+---
 
-
+---
 ## 🤖 Data Science & Machine Learning Projekte
-
 
 ### ♻️ [ÖKOEFFIZIENT - Prädiktives Emissionsmanagement](./projects-Data-Analytics/project-4-ÖKOEFFIZIENT/README.md)
 
@@ -26,3 +28,4 @@
 ### 🚗 [Actuarial Risk Modeling - Kfz-Versicherung](./projects-Data-Analytics/project-4-ÖKOEFFIZIENT/README.md)
 
 ### 🏠 [HEIZOPTIM - Intelligente Heizungssteuerung](./projects-Data-Analytics/project-4-ÖKOEFFIZIENT/README.md)
+---
