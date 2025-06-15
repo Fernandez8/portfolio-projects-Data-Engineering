@@ -28,3 +28,6 @@
 
 ### 🏠 [HEIZOPTIM - Intelligente Heizungssteuerung](./projects-Data-Analytics/project-4-ÖKOEFFIZIENT/README.md)
 ---
+## 🧠 LLM & Generative AI
+
+###  📊 [AI-Agent für automatische Dashboard-Generierung aus PostgreSQL-Datenbank](./projects-Data-Analytics/LLM&AG&GEN/README.md)
