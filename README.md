@@ -16,9 +16,7 @@
 ### ▶️ [IaC](./projects-Data-Analytics/terraform/)   
 
 ### ▶️ [Migration von On-Prem zu Azure SQL DB](./projects-Data-Analytics/On-Prem_to_AzureSQL/)
----
 
----
 ## 🤖 Data Science & Machine Learning Projekte
 
 ### ♻️ [ÖKOEFFIZIENT - Prädiktives Emissionsmanagement](./projects-Data-Analytics/project-4-ÖKOEFFIZIENT/README.md)
