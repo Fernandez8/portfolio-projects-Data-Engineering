@@ -47,7 +47,6 @@ Schritt 5: Überprüfung der Daten in ASQL
 - Überprüfung der übertragenen Daten in der angegebenen Tabelle, z. B. marketing_Tab.
 - Validierung der Datenkonsistenz und Integrität zwischen der ursprünglichen MySQL-Datenbank und der Azure SQL-Datenbank.
 
-
 ---
 - Verwendung von Azure Data Factory zur Verbindung von On-Premise-MySQL und Azure SQL
 - Erstellung von Datasets und Linked Services
@@ -63,3 +62,51 @@ Schritt 5: Überprüfung der Daten in ASQL
 </p>
 
 ---
+
+Zielsetzung
+- Migration von On-Premises-MySQL-Daten in eine Azure SQL-Datenbank
+- Verwendung von inkrementellem Laden (Delta Loads)
+- Automatisierung mit Azure Data Factory (ADF)
+- Filtern nur neuer oder aktualisierter Daten anhand der Spalte LastUpdate
+
+Zieltabelle (Azure SQL)
+- Manuelle Erstellung der Tabelle in Azure SQL
+- Übereinstimmung des Schemas mit der MySQL-Quelldatenbank
+
+---
+<p align="center">
+  <img src="DestiTabel.png" alt="step" width="700"/>
+</p>
+
+---
+
+Lookup-Aktivität in ADF-Pipeline
+- Verwendung der Lookup-Aktivität, um den neuesten LastUpdate-Wert aus der Zieltabelle abzurufen
+- Verwendete Abfrage :
+  - SELECT MAX(LastUpdate) AS LUD FROM superstore;
+  - Dieser Wert wird gespeichert und im nächsten Schritt dynamisch verwendet
+
+
+Copy Activity mit  Incremental Query
+- Incremental Load Query Logic
+  - Dynamischer Inhalt: @{...}-Ausdruck
+  - Basiert auf dem Lookup des MAX(LastUpdate)-Werts aus Azure SQL
+
+
+- Ausführung und Überwachung der Pipeline
+  - Pipeline-Name: IncrementalLoad_PL
+  - Aktivitäten: Lookup und Kopieren von Daten mit dynamischer Abfrage als Quelle und Azure SQL als Ziel
+  - Ausführen der ADF-Pipeline
+  - Überwachen des Pipeline-Laufs auf erfolgreichen Abschluss und Analyse der Datenbewegung
+  - Überprüfung in Azure SQL, ob Datensätze korrekt eingefügt wurden
+
+- Validate Incremental Load
+
+---
+<p align="center">
+  <img src="Validate.png" alt="step" width="700"/>
+</p>
+
+---
+- Mit Abfragen in Azure SQL überprüfen, dass nur neue Datensätze eingefügt wurden
+- Bestätigen, dass die Filterung über LastUpdate wie erwartet funktioniert
