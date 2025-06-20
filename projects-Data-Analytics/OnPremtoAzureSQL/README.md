@@ -20,9 +20,6 @@ Schritt 2: Ausgabedataset erstellen
 - Manuelle Angabe von Schema und Tabellenname, z. B. marketingq_Tb
 
 Schritt 3: Erstellen einer Pipeline mit Copy Activity
-<p align="center">
-  <img src="step_Bild.png" alt="Step" width="700"/>
-</p>
 
 - Erstellung einer neuen Pipeline (z. B. OnPrem2ASQL_AZPLAT)
 - Hinzufügen einer Copy Data-Aktivität
