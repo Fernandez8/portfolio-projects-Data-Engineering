@@ -17,7 +17,7 @@ Cloud-Infrastruktur-Automatisierung nach Best Practices.
 ### 🔬 [Synthetische Daten für Machine Learning](./projects-Data-Analytics/project-4-ÖKOEFFIZIENT/README.md)   
 ### 🚗 [Actuarial Risk Modeling - Kfz-Versicherung](./projects-Data-Analytics/project-4-ÖKOEFFIZIENT/README.md)   
 ### 🏠 [HEIZOPTIM - Intelligente Heizungssteuerung](./projects-Data-Analytics/project-4-ÖKOEFFIZIENT/README.md)   
-### 🚌 [Köffentlichen Verkehr](./projects-Data-Analytics/Project-5-OeffentlichenVerkehr/README.md)   
+### 🚌 [Öffentlicher Verkehr](./projects-Data-Analytics/Project-5-OeffentlichenVerkehr/README.md)   
 ---
 ## 🌐 IIoT & IoT Projekte 
 ### 📊 [Signalverarbeitung & Modellierung](./projects-Data-Analytics/project-IIOT/README.md/)   
