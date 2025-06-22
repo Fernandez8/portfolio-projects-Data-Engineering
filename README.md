@@ -14,6 +14,7 @@ Cloud-Infrastruktur-Automatisierung nach Best Practices.
 ### ▶️ [Migration von On-Prem zu Azure SQL DB](./projects-Data-Analytics/OnPremtoAzureSQL/)
 ---
 ## 🤖 Data Science & Machine Learning Projekte
+
 ### ♻️ [ÖKOEFFIZIENT - Prädiktives Emissionsmanagement](./projects-Data-Analytics/project-4-ÖKOEFFIZIENT/README.md)
 ### 🔬 [Synthetische Daten für Machine Learning](./projects-Data-Analytics/project-4-ÖKOEFFIZIENT/README.md)
 ### 🚗 [Actuarial Risk Modeling - Kfz-Versicherung](./projects-Data-Analytics/project-4-ÖKOEFFIZIENT/README.md)
@@ -23,4 +24,5 @@ Cloud-Infrastruktur-Automatisierung nach Best Practices.
 
 ---
 ## 🌐 IIoT & IoT ProjekteAdd commentMore actions
+
 ### 📊 [Signalverarbeitung & Modellierung](./projects-Data-Analytics/project-IIOT/README.md/)
