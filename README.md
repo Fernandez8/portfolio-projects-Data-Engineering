@@ -19,5 +19,5 @@ Cloud-Infrastruktur-Automatisierung nach Best Practices.
 ### 🏠 [HEIZOPTIM - Intelligente Heizungssteuerung](./projects-Data-Analytics/project-4-ÖKOEFFIZIENT/README.md)   
 ### 🚌 [Köffentlichen Verkehr](./projects-Data-Analytics/Project-5-OeffentlichenVerkehr/README.md)   
 ---
-## 🌐 IIoT & IoT ProjekteAdd commentMore actions   
+## 🌐 IIoT & IoT Projekte 
 ### 📊 [Signalverarbeitung & Modellierung](./projects-Data-Analytics/project-IIOT/README.md/)   
