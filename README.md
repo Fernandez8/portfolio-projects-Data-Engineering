@@ -28,3 +28,6 @@
 
 ### 🏠 [HEIZOPTIM - Intelligente Heizungssteuerung](./projects-Data-Analytics/project-4-ÖKOEFFIZIENT/README.md)
 ---
+## 🌐 IIoT & IoT Projekte
+
+### 📊 [Vibrationsanalyse & Resonanzdetektion – Signalverarbeitung & Modellierung](./projects-Data-Analytics/project-IIOT/README.md/)
