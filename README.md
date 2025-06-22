@@ -30,4 +30,4 @@
 ---
 ## 🌐 IIoT & IoT Projekte
 
-### 📊 [Vibrationsanalyse & Resonanzdetektion – Signalverarbeitung & Modellierung](./projects-Data-Analytics/project-IIOT/README.md/)
+### 📊 [Signalverarbeitung & Modellierung](./projects-Data-Analytics/project-IIOT/README.md/)
