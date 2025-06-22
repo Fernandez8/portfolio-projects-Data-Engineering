@@ -18,4 +18,4 @@ Willkommen zu meinem Portfolio von Data Engineering und Data Science Projekten m
 ### 🚌 [Öffentlicher Verkehr](./projects-Data-Analytics/Project-5-OeffentlichenVerkehr/README.md)   
 ---
 ## 🌐 IIoT & IoT Projekte 
-### 📊 [Signalverarbeitung & Modellierung](./projects-Data-Analytics/project-IIOT/README.md/)   
+### 📊 [Signalverarbeitung & Modellierung](./projects-Data-Analytics/Project-IIOT&IoT/README.md/)   
