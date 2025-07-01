@@ -6,3 +6,10 @@ Das Ziel ist, rechtzeitig zu reagieren, bevor der Bus überfüllt ist – mithil
 <p align="center">
   <img src="BussKapazität.png" alt="Kapazitätsprognose im öffentlichen Verkehr" width="700"/>
 </p>
+
+
+#### Monitoring
+
+<p align="center">
+  <img src="monitoring.png" alt="Monitoring" width="700"/>
+</p>

@@ -16,6 +16,10 @@ Willkommen zu meinem Portfolio von Data Engineering und Data Science Projekten m
 ### 🚗 [Actuarial Risk Modeling - Kfz-Versicherung](./projects-Data-Analytics/project-4-ÖKOEFFIZIENT/README.md)   
 ### 🏠 [HEIZOPTIM - Intelligente Heizungssteuerung](./projects-Data-Analytics/project-4-ÖKOEFFIZIENT/README.md)   
 ### 🚌 [Öffentlicher Verkehr](./projects-Data-Analytics/Project-5-OeffentlichenVerkehr/README.md)   
+###    1. [Architecture]   
+###    2. [ETLs Pipelines](./projects-Data-Analytics/Project-5-OeffentlichenVerkehr/README.md)   
+###    3. [Entwicklung-Datenplattform-Services](./projects-Data-Analytics/Project-5-OeffentlichenVerkehr/README.md)   
+###    4. [Monitoring](./projects-Data-Analytics/Project-5-OeffentlichenVerkehr/README.md) 
 ---
 ## 🌐 IIoT & IoT Projekte 
 ### 📊 [Signalverarbeitung & Modellierung](./projects-Data-Analytics/Project-IIOT&IoT/README.md/)   
